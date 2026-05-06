@@ -1,0 +1,12 @@
+{
+  "script": "graph_expansion",
+  "output": "submissions\\graph_expansion_v1.csv",
+  "elapsed_seconds": 255.09,
+  "val_f1": 0.005375180375180375,
+  "fixed_k": 30,
+  "base_pool": 120,
+  "per_seed_sources": 40,
+  "max_sources_per_ref": 250,
+  "max_siblings": 40,
+  "sibling_weight": 0.35
+}

@@ -1,0 +1,10 @@
+.DS_Store
+._*
+.env
+*.zip
+*.parquet
+*.pkl
+*.bin
+*.safetensors
+__pycache__/
+.ipynb_checkpoints/

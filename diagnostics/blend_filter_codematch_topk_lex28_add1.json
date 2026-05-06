@@ -1,0 +1,469 @@
+[
+  {
+    "query_id":"test_001",
+    "extras":[
+      "Art. 23 Abs. 2 UWG"
+    ],
+    "available":[
+      "Art. 23 Abs. 2 UWG",
+      "Art. 23 Abs. 1 UWG",
+      "Art. 445 Abs. 2 ZGB",
+      "Art. 445 Abs. 1 ZGB",
+      "Art. 3 Abs. 2 UWG",
+      "Art. 4a Abs. 1 UWG"
+    ],
+    "count":29
+  },
+  {
+    "query_id":"test_002",
+    "extras":[
+      "Art. 83 Abs. 1 SVG"
+    ],
+    "available":[
+      "Art. 83 Abs. 1 SVG",
+      "Art. 83 Abs. 2 SVG",
+      "Art. 59 Abs. 2 SVG",
+      "Art. 59 Abs. 3 SVG",
+      "Art. 59 Abs. 4 SVG",
+      "Art. 58 Abs. 3 SVG"
+    ],
+    "count":29
+  },
+  {
+    "query_id":"test_003",
+    "extras":[
+      "Art. 267a Abs. 1 OR"
+    ],
+    "available":[
+      "Art. 267a Abs. 1 OR",
+      "Art. 267a Abs. 2 OR",
+      "Art. 267a Abs. 3 OR",
+      "Art. 259d OR",
+      "Art. 259g Abs. 1 OR"
+    ],
+    "count":29
+  },
+  {
+    "query_id":"test_004",
+    "extras":[
+      "Art. 166 Abs. 1 SchKG"
+    ],
+    "available":[
+      "Art. 166 Abs. 1 SchKG",
+      "Art. 88 Abs. 1 SchKG",
+      "Art. 88 Abs. 2 SchKG",
+      "Art. 88 Abs. 3 SchKG",
+      "Art. 174 Abs. 2 SchKG",
+      "Art. 168 SchKG",
+      "Art. 174 Abs. 1 SchKG"
+    ],
+    "count":29
+  },
+  {
+    "query_id":"test_005",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_006",
+    "extras":[
+      "Art. 55 Abs. 1 OR"
+    ],
+    "available":[
+      "Art. 55 Abs. 1 OR",
+      "Art. 55 Abs. 2 OR"
+    ],
+    "count":29
+  },
+  {
+    "query_id":"test_007",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_008",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_009",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_010",
+    "extras":[
+      "Art. 398 Abs. 1 StPO"
+    ],
+    "available":[
+      "Art. 398 Abs. 1 StPO",
+      "Art. 398 Abs. 2 StPO",
+      "Art. 398 Abs. 3 StPO",
+      "Art. 398 Abs. 4 StPO",
+      "Art. 398 Abs. 5 StPO",
+      "Art. 93 Abs. 1 BGG",
+      "Art. 339 Abs. 2 StPO",
+      "Art. 42 Abs. 2 BGG",
+      "Art. 106 Abs. 2 BGG"
+    ],
+    "count":29
+  },
+  {
+    "query_id":"test_011",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_012",
+    "extras":[
+      "Art. 400 Abs. 1 OR"
+    ],
+    "available":[
+      "Art. 400 Abs. 1 OR",
+      "Art. 400 Abs. 2 OR"
+    ],
+    "count":29
+  },
+  {
+    "query_id":"test_013",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_014",
+    "extras":[
+      "Art. 6 Abs. 3 UVG"
+    ],
+    "available":[
+      "Art. 6 Abs. 3 UVG"
+    ],
+    "count":29
+  },
+  {
+    "query_id":"test_015",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_016",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_017",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_018",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_019",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_020",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_021",
+    "extras":[
+      "Art. 398 Abs. 3 OR"
+    ],
+    "available":[
+      "Art. 398 Abs. 3 OR",
+      "Art. 399 Abs. 2 OR",
+      "Art. 398 Abs. 1 OR",
+      "Art. 399 Abs. 3 OR",
+      "Art. 399 Abs. 1 OR"
+    ],
+    "count":29
+  },
+  {
+    "query_id":"test_022",
+    "extras":[
+      "Art. 87 Abs. 1 IPRG"
+    ],
+    "available":[
+      "Art. 87 Abs. 1 IPRG"
+    ],
+    "count":29
+  },
+  {
+    "query_id":"test_023",
+    "extras":[
+      "Art. 52 Abs. 2 AHVG"
+    ],
+    "available":[
+      "Art. 52 Abs. 2 AHVG",
+      "Art. 52 Abs. 3 AHVG",
+      "Art. 52 Abs. 4 AHVG",
+      "Art. 52 Abs. 5 AHVG",
+      "Art. 52 Abs. 6 AHVG",
+      "Art. 14 Abs. 1 AHVG",
+      "Art. 51 Abs. 1 AHVG"
+    ],
+    "count":29
+  },
+  {
+    "query_id":"test_024",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_025",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_026",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_027",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_028",
+    "extras":[
+      "Art. 58 Abs. 2 OR"
+    ],
+    "available":[
+      "Art. 58 Abs. 2 OR",
+      "Art. 56 Abs. 1 OR",
+      "Art. 56 Abs. 2 OR",
+      "Art. 56 Abs. 3 OR",
+      "Art. 41 Abs. 2 OR"
+    ],
+    "count":29
+  },
+  {
+    "query_id":"test_029",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_030",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_031",
+    "extras":[
+      "Art. 125 Abs. 1 ZGB"
+    ],
+    "available":[
+      "Art. 125 Abs. 1 ZGB",
+      "Art. 125 Abs. 2 ZGB",
+      "Art. 125 Abs. 3 ZGB",
+      "Art. 163 Abs. 1 ZGB",
+      "Art. 163 Abs. 2 ZGB",
+      "Art. 163 Abs. 3 ZGB",
+      "Art. 124 Abs. 1 ZGB",
+      "Art. 124 Abs. 3 ZGB",
+      "Art. 124 Abs. 2 ZGB"
+    ],
+    "count":29
+  },
+  {
+    "query_id":"test_032",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_033",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_034",
+    "extras":[
+      "Art. 839 Abs. 1 ZGB"
+    ],
+    "available":[
+      "Art. 839 Abs. 1 ZGB",
+      "Art. 839 Abs. 3 ZGB",
+      "Art. 839 Abs. 4 ZGB",
+      "Art. 839 Abs. 5 ZGB",
+      "Art. 839 Abs. 6 ZGB",
+      "Art. 837 Abs. 1 ZGB",
+      "Art. 961 Abs. 1 ZGB",
+      "Art. 961 Abs. 3 ZGB"
+    ],
+    "count":29
+  },
+  {
+    "query_id":"test_035",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_036",
+    "extras":[
+      "Art. 255 Abs. 2 StPO"
+    ],
+    "available":[
+      "Art. 255 Abs. 2 StPO",
+      "Art. 255 Abs. 3 StPO",
+      "Art. 197 Abs. 2 StPO",
+      "Art. 101 Abs. 3 StPO",
+      "Art. 101 Abs. 2 StPO"
+    ],
+    "count":29
+  },
+  {
+    "query_id":"test_037",
+    "extras":[
+      "Art. 23 Abs. 2 UWG"
+    ],
+    "available":[
+      "Art. 23 Abs. 2 UWG",
+      "Art. 23 Abs. 1 UWG",
+      "Art. 3 Abs. 2 UWG"
+    ],
+    "count":29
+  },
+  {
+    "query_id":"test_038",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_039",
+    "extras":[
+
+    ],
+    "available":[
+
+    ],
+    "count":28
+  },
+  {
+    "query_id":"test_040",
+    "extras":[
+      "Art. 176 Abs. 1 ZGB"
+    ],
+    "available":[
+      "Art. 176 Abs. 1 ZGB",
+      "Art. 176 Abs. 2 ZGB",
+      "Art. 176 Abs. 3 ZGB"
+    ],
+    "count":29
+  }
+]
