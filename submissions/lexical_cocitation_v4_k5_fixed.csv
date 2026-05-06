@@ -1,0 +1,41 @@
+query_id,predicted_citations
+test_001,Art. 963 Abs. 1 ZGB;Art. 10 Abs. 2 URG;Art. 655 Abs. 2 ZGB;Art. 965 Abs. 3 ZGB;Art. 8 ZGB
+test_002,Art. 59 Abs. 1 SVG;Art. 58 Abs. 1 SVG;Art. 65 Abs. 3 SVG;Art. 90 Abs. 2 SVG;Art. 64 SVG
+test_003,Art. 20 Abs. 2 OR;Art. 659 Abs. 2 OR;Art. 23 OR;Art. 24 Abs. 1 OR;Art. 41 Abs. 1 OR
+test_004,Art. 166 Abs. 2 SchKG;Art. 17 Abs. 1 SchKG;Art. 17 Abs. 2 SchKG;Art. 82 Abs. 1 SchKG;Art. 271 Abs. 1 SchKG
+test_005,Art. 963 Abs. 1 ZGB;Art. 20 Abs. 2 OR;Art. 655 Abs. 2 ZGB;Art. 965 Abs. 3 ZGB;Art. 8 ZGB
+test_006,Art. 2 Abs. 1 PrHG;Art. 1 Abs. 1 PrHG;Art. 11 Abs. 2 PrHG;Art. 6 Abs. 2 PrHG;Art. 3 Abs. 1 PrHG
+test_007,Art. 963 Abs. 1 ZGB;Art. 20 Abs. 2 OR;Art. 8 ZGB;Art. 655 Abs. 2 ZGB;Art. 965 Abs. 3 ZGB
+test_008,Art. 963 Abs. 1 ZGB;Art. 100 Abs. 1 BGG;Art. 20 Abs. 2 OR;Art. 655 Abs. 2 ZGB;Art. 965 Abs. 3 ZGB
+test_009,Art. 963 Abs. 1 ZGB;Art. 655 Abs. 2 ZGB;Art. 965 Abs. 3 ZGB;Art. 8 ZGB;Art. 527 ZGB
+test_010,Art. 221 Abs. 1 StPO;Art. 221 Abs. 2 StPO;Art. 130 StPO;Art. 428 Abs. 1 StPO;Art. 3 Abs. 2 StPO
+test_011,Art. 20 Abs. 2 OR;Art. 659 Abs. 2 OR;Art. 17 IPRG;Art. 23 OR;Art. 41 Abs. 1 OR
+test_012,Art. 20 Abs. 2 OR;Art. 659 Abs. 2 OR;Art. 23 OR;Art. 24 Abs. 1 OR;Art. 41 Abs. 1 OR
+test_013,Art. 963 Abs. 1 ZGB;Art. 20 Abs. 2 OR;Art. 655 Abs. 2 ZGB;Art. 965 Abs. 3 ZGB;Art. 8 ZGB
+test_014,Art. 4 ATSG;Art. 6 Abs. 1 UVG;Art. 6 Abs. 2 UVG;Art. 61 ATSG;Art. 10 ATSG
+test_015,Art. 963 Abs. 1 ZGB;Art. 20 Abs. 2 OR;Art. 8 ZGB;Art. 655 Abs. 2 ZGB;Art. 965 Abs. 3 ZGB
+test_016,Art. 20 Abs. 1 DBG;Art. 16 Abs. 3 DBG;Art. 4 Abs. 1 VStG;Art. 963 Abs. 1 ZGB;Art. 58 Abs. 1 DBG
+test_017,Art. 963 Abs. 1 ZGB;Art. 100 Abs. 1 BGG;Art. 20 Abs. 2 OR;Art. 655 Abs. 2 ZGB;Art. 965 Abs. 3 ZGB
+test_018,Art. 17 IPRG;Art. 221 Abs. 1 StPO;Art. 243 Abs. 1 ZPO;Art. 18 IPRG;Art. 319 ZPO
+test_019,Art. 963 Abs. 1 ZGB;Art. 20 Abs. 2 OR;Art. 8 ZGB;Art. 655 Abs. 2 ZGB;Art. 965 Abs. 3 ZGB
+test_020,Art. 20 Abs. 1 DBG;Art. 16 Abs. 3 DBG;Art. 4 Abs. 1 VStG;Art. 963 Abs. 1 ZGB;Art. 58 Abs. 1 DBG
+test_021,Art. 20 Abs. 2 OR;Art. 659 Abs. 2 OR;Art. 23 OR;Art. 24 Abs. 1 OR;Art. 41 Abs. 1 OR
+test_022,Art. 46 IPRG;Art. 10 IPRG;Art. 17 IPRG;Art. 18 IPRG;Art. 1 Abs. 2 IPRG
+test_023,Art. 52 Abs. 1 AHVG;Art. 1a Abs. 1 AHVG;Art. 5 Abs. 1 AHVG;Art. 12 Abs. 1 AHVG;Art. 10 Abs. 2 AHVG
+test_024,Art. 963 Abs. 1 ZGB;Art. 20 Abs. 2 OR;Art. 8 ZGB;Art. 655 Abs. 2 ZGB;Art. 965 Abs. 3 ZGB
+test_025,Art. 963 Abs. 1 ZGB;Art. 20 Abs. 2 OR;Art. 655 Abs. 2 ZGB;Art. 965 Abs. 3 ZGB;Art. 8 ZGB
+test_026,Art. 963 Abs. 1 ZGB;Art. 20 Abs. 2 OR;Art. 655 Abs. 2 ZGB;Art. 965 Abs. 3 ZGB;Art. 8 ZGB
+test_027,Art. 963 Abs. 1 ZGB;Art. 100 Abs. 1 BGG;Art. 655 Abs. 2 ZGB;Art. 965 Abs. 3 ZGB;Art. 8 ZGB
+test_028,Art. 58 Abs. 1 OR;Art. 20 Abs. 2 OR;Art. 659 Abs. 2 OR;Art. 23 OR;Art. 24 Abs. 1 OR
+test_029,Art. 963 Abs. 1 ZGB;Art. 100 Abs. 1 BGG;Art. 20 Abs. 2 OR;Art. 655 Abs. 2 ZGB;Art. 965 Abs. 3 ZGB
+test_030,Art. 963 Abs. 1 ZGB;Art. 20 Abs. 2 OR;Art. 8 ZGB;Art. 655 Abs. 2 ZGB;Art. 965 Abs. 3 ZGB
+test_031,Art. 963 Abs. 1 ZGB;Art. 8 ZGB;Art. 655 Abs. 2 ZGB;Art. 965 Abs. 3 ZGB;Art. 527 ZGB
+test_032,Art. 963 Abs. 1 ZGB;Art. 100 Abs. 1 BGG;Art. 20 Abs. 2 OR;Art. 655 Abs. 2 ZGB;Art. 965 Abs. 3 ZGB
+test_033,Art. 37 Abs. 2 UVG;Art. 7 Abs. 1 UVG;Art. 7 Abs. 2 UVG;Art. 24 Abs. 1 UVG;Art. 16 Abs. 2 UVG
+test_034,Art. 963 Abs. 1 ZGB;Art. 8 ZGB;Art. 655 Abs. 2 ZGB;Art. 965 Abs. 3 ZGB;Art. 527 ZGB
+test_035,Art. 263 ZPO;Art. 89 IPRG;Art. 17 IPRG;Art. 243 Abs. 1 ZPO;Art. 18 IPRG
+test_036,Art. 197 Abs. 1 StPO;Art. 255 Abs. 1 StPO;Art. 101 Abs. 1 StPO;Art. 221 Abs. 1 StPO;Art. 221 Abs. 2 StPO
+test_037,Art. 1 UWG;Art. 2 UWG;Art. 5 UWG;Art. 3 Abs. 1 UWG;Art. 2 MSchG
+test_038,Art. 100 Abs. 1 BGG;Art. 20 Abs. 2 OR;Art. 659 Abs. 2 OR;Art. 12 Abs. 2 StGB;Art. 221 Abs. 1 StPO
+test_039,Art. 963 Abs. 1 ZGB;Art. 20 Abs. 2 OR;Art. 8 ZGB;Art. 655 Abs. 2 ZGB;Art. 965 Abs. 3 ZGB
+test_040,Art. 963 Abs. 1 ZGB;Art. 8 ZGB;Art. 655 Abs. 2 ZGB;Art. 965 Abs. 3 ZGB;Art. 527 ZGB
