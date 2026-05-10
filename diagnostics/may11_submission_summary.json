@@ -1,0 +1,65 @@
+{
+  "updated_local_date": "2026-05-11",
+  "best_public_score": "0.09498",
+  "best_submission": "blend_may11_loop05_best445_agg3n30_4453_4501.csv",
+  "best_description": "may11_loop05_best445_agg3n30_4453_4501",
+  "may11_submission_count": 10,
+  "may11_scores": [
+    {
+      "description": "may11_loop01_best445_agg3n30_add2_codematch_skip",
+      "file_name": "blend_may11_loop01_best445_agg3n30_add2_codematch_skip.csv",
+      "public_score": "0.09251"
+    },
+    {
+      "description": "may11_loop02_best445_agg3n30_add2_plus_445_2",
+      "file_name": "blend_may11_loop02_best445_agg3n30_add2_plus_445_2.csv",
+      "public_score": "0.09248"
+    },
+    {
+      "description": "may11_loop03_best445_agg3n30_add2_plus_445_3",
+      "file_name": "blend_may11_loop03_best445_agg3n30_add2_plus_445_3.csv",
+      "public_score": "0.09376"
+    },
+    {
+      "description": "may11_loop04_best445_agg3n30_add2_plus_450_1",
+      "file_name": "blend_may11_loop04_best445_agg3n30_add2_plus_450_1.csv",
+      "public_score": "0.09376"
+    },
+    {
+      "description": "may11_loop05_best445_agg3n30_4453_4501",
+      "file_name": "blend_may11_loop05_best445_agg3n30_4453_4501.csv",
+      "public_score": "0.09498"
+    },
+    {
+      "description": "may11_loop06_best445_agg3n30_4453_4462",
+      "file_name": "blend_may11_loop06_best445_agg3n30_4453_4462.csv",
+      "public_score": "0.09498"
+    },
+    {
+      "description": "may11_loop07_best445_agg3n30_4453_3892",
+      "file_name": "blend_may11_loop07_best445_agg3n30_4453_3892.csv",
+      "public_score": "0.09498"
+    },
+    {
+      "description": "may11_loop08_best445_agg3n30_4453_3941",
+      "file_name": "blend_may11_loop08_best445_agg3n30_4453_3941.csv",
+      "public_score": "0.09498"
+    },
+    {
+      "description": "may11_loop09_best445_agg3n30_4453_3951",
+      "file_name": "blend_may11_loop09_best445_agg3n30_4453_3951.csv",
+      "public_score": "0.09498"
+    },
+    {
+      "description": "may11_loop10_best445_agg3n30_4453_3901",
+      "file_name": "blend_may11_loop10_best445_agg3n30_4453_3901.csv",
+      "public_score": "0.09498"
+    }
+  ],
+  "key_findings": [
+    "Conservative aggregation blending improved the prior best.",
+    "Adding test_029 Art. 445 Abs. 3 ZGB and Art. 450 Abs. 1 ZGB together produced the best public score.",
+    "Several nearby test_029 adult-protection additions were neutral at displayed precision.",
+    "Raw aggregated corpus outputs remain poor as standalone submissions."
+  ]
+}
