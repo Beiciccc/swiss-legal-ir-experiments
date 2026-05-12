@@ -6,10 +6,10 @@ This repository contains a sanitized record of experiments, public scores, submi
 
 ## Current Best
 
-- Public score: `0.09498`
-- Submission: `blend_may11_loop05_best445_agg3n30_4453_4501.csv`
-- Description: `may11_loop05_best445_agg3n30_4453_4501`
-- Date: `2026-05-11T00:25:30.007000+01:00`
+- Public score: `0.10452`
+- Submission: `blend_may12_loop10_t029_all_adult_protection.csv`
+- Description: `may12_loop10_t029_all_adult_protection`
+- Date: `2026-05-12T10:22:55.470000+01:00`
 
 ## Repository Contents
 

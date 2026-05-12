@@ -1,0 +1,66 @@
+{
+  "updated_local_date": "2026-05-12",
+  "best_public_score": "0.10452",
+  "best_submission": "blend_may12_loop10_t029_all_adult_protection.csv",
+  "best_description": "may12_loop10_t029_all_adult_protection",
+  "may12_submission_count": 10,
+  "may12_scores": [
+    {
+      "description": "may12_loop01_t029_4501_4462",
+      "file_name": "blend_may12_loop01_t029_4501_4462.csv",
+      "public_score": "0.09617"
+    },
+    {
+      "description": "may12_loop02_t029_4501_3892",
+      "file_name": "blend_may12_loop02_t029_4501_3892.csv",
+      "public_score": "0.09617"
+    },
+    {
+      "description": "may12_loop03_t029_4501_3941",
+      "file_name": "blend_may12_loop03_t029_4501_3941.csv",
+      "public_score": "0.09617"
+    },
+    {
+      "description": "may12_loop04_t029_4501_3951",
+      "file_name": "blend_may12_loop04_t029_4501_3951.csv",
+      "public_score": "0.09617"
+    },
+    {
+      "description": "may12_loop05_t029_4501_3901",
+      "file_name": "blend_may12_loop05_t029_4501_3901.csv",
+      "public_score": "0.09617"
+    },
+    {
+      "description": "may12_loop06_t029_4501_all_prev_pos",
+      "file_name": "blend_may12_loop06_t029_4501_all_prev_pos.csv",
+      "public_score": "0.10063"
+    },
+    {
+      "description": "may12_loop07_t029_add_3891_4461",
+      "file_name": "blend_may12_loop07_t029_add_3891_4461.csv",
+      "public_score": "0.09732"
+    },
+    {
+      "description": "may12_loop08_t029_add_4502_4503",
+      "file_name": "blend_may12_loop08_t029_add_4502_4503.csv",
+      "public_score": "0.09732"
+    },
+    {
+      "description": "may12_loop09_t029_add_450c",
+      "file_name": "blend_may12_loop09_t029_add_450c.csv",
+      "public_score": "0.09492"
+    },
+    {
+      "description": "may12_loop10_t029_all_adult_protection",
+      "file_name": "blend_may12_loop10_t029_all_adult_protection.csv",
+      "public_score": "0.10452"
+    }
+  ],
+  "key_findings": [
+    "Adult-protection additions on test_029 were strongly positive.",
+    "Single additions after the May 11 best reached 0.09617.",
+    "Combining prior positive adult-protection additions reached 0.10063.",
+    "The broader adult-protection pack reached 0.10452.",
+    "Art. 450c ZGB alone was negative, despite appearing in the positive broad pack."
+  ]
+}
