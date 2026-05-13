@@ -1,0 +1,66 @@
+{
+  "updated_local_date": "2026-05-13",
+  "best_public_score": "0.10706",
+  "best_submission": "blend_may13_loop09_best_clean_t029_drop_zgb_register_head.csv",
+  "best_description": "may13_loop09_best_clean_t029_drop_zgb_register_head",
+  "may13_submission_count": 10,
+  "may13_scores": [
+    {
+      "description": "may13_loop01_t029_drop_stpo_zpo_schkg",
+      "file_name": "blend_may13_loop01_t029_drop_stpo_zpo_schkg.csv",
+      "public_score": "0.10404"
+    },
+    {
+      "description": "may13_loop02_t029_drop_bgg",
+      "file_name": "blend_may13_loop02_t029_drop_bgg.csv",
+      "public_score": "0.10486"
+    },
+    {
+      "description": "may13_loop03_t029_drop_iprg",
+      "file_name": "blend_may13_loop03_t029_drop_iprg.csv",
+      "public_score": "0.10486"
+    },
+    {
+      "description": "may13_loop04_t029_drop_or_tail",
+      "file_name": "blend_may13_loop04_t029_drop_or_tail.csv",
+      "public_score": "0.10539"
+    },
+    {
+      "description": "may13_loop05_t029_drop_all_crossdomain_tail",
+      "file_name": "blend_may13_loop05_t029_drop_all_crossdomain_tail.csv",
+      "public_score": "0.10571"
+    },
+    {
+      "description": "may13_loop06_t029_add_3902_3911_3912",
+      "file_name": "blend_may13_loop06_t029_add_3902_3911_3912.csv",
+      "public_score": "0.10513"
+    },
+    {
+      "description": "may13_loop07_t029_add_448_449b_450b_450d",
+      "file_name": "blend_may13_loop07_t029_add_448_449b_450b_450d.csv",
+      "public_score": "0.10390"
+    },
+    {
+      "description": "may13_loop08_t029_add_392_393_396_398",
+      "file_name": "blend_may13_loop08_t029_add_392_393_396_398.csv",
+      "public_score": "0.10390"
+    },
+    {
+      "description": "may13_loop09_best_clean_t029_drop_zgb_register_head",
+      "file_name": "blend_may13_loop09_best_clean_t029_drop_zgb_register_head.csv",
+      "public_score": "0.10706"
+    },
+    {
+      "description": "may13_loop10_best_clean_t034_add_961_1",
+      "file_name": "blend_may13_loop10_best_clean_t034_add_961_1.csv",
+      "public_score": "0.10571"
+    }
+  ],
+  "key_findings": [
+    "test_029 cleanup improved the public score.",
+    "Dropping broad cross-domain tail reached 0.10571.",
+    "Dropping an old ZGB register-head group after cleanup reached 0.10706.",
+    "Procedure/alternative guardianship add packs were negative.",
+    "test_034 Art. 961 Abs. 1 ZGB was neutral on the cleaned base."
+  ]
+}

@@ -29,3 +29,13 @@ date_local,date_utc,description,file_name,status,public_score
 2026-05-12T10:21:50.550000+01:00,2026-05-12T09:21:50.550000,may12_loop08_t029_add_4502_4503,blend_may12_loop08_t029_add_4502_4503.csv,COMPLETE,0.09732
 2026-05-12T10:22:23.040000+01:00,2026-05-12T09:22:23.040000,may12_loop09_t029_add_450c,blend_may12_loop09_t029_add_450c.csv,COMPLETE,0.09492
 2026-05-12T10:22:55.470000+01:00,2026-05-12T09:22:55.470000,may12_loop10_t029_all_adult_protection,blend_may12_loop10_t029_all_adult_protection.csv,COMPLETE,0.10452
+2026-05-13T03:08:04.183000+01:00,2026-05-13T02:08:04.183000,may13_loop01_t029_drop_stpo_zpo_schkg,blend_may13_loop01_t029_drop_stpo_zpo_schkg.csv,COMPLETE,0.10404
+2026-05-13T03:08:36.723000+01:00,2026-05-13T02:08:36.723000,may13_loop02_t029_drop_bgg,blend_may13_loop02_t029_drop_bgg.csv,COMPLETE,0.10486
+2026-05-13T03:09:09.120000+01:00,2026-05-13T02:09:09.120000,may13_loop03_t029_drop_iprg,blend_may13_loop03_t029_drop_iprg.csv,COMPLETE,0.10486
+2026-05-13T03:09:41.670000+01:00,2026-05-13T02:09:41.670000,may13_loop04_t029_drop_or_tail,blend_may13_loop04_t029_drop_or_tail.csv,COMPLETE,0.10539
+2026-05-13T03:10:13.893000+01:00,2026-05-13T02:10:13.893000,may13_loop05_t029_drop_all_crossdomain_tail,blend_may13_loop05_t029_drop_all_crossdomain_tail.csv,COMPLETE,0.10571
+2026-05-13T03:10:46.120000+01:00,2026-05-13T02:10:46.120000,may13_loop06_t029_add_3902_3911_3912,blend_may13_loop06_t029_add_3902_3911_3912.csv,COMPLETE,0.10513
+2026-05-13T03:11:18.547000+01:00,2026-05-13T02:11:18.547000,may13_loop07_t029_add_448_449b_450b_450d,blend_may13_loop07_t029_add_448_449b_450b_450d.csv,COMPLETE,0.10390
+2026-05-13T03:11:50.900000+01:00,2026-05-13T02:11:50.900000,may13_loop08_t029_add_392_393_396_398,blend_may13_loop08_t029_add_392_393_396_398.csv,COMPLETE,0.10390
+2026-05-13T03:13:13.383000+01:00,2026-05-13T02:13:13.383000,may13_loop09_best_clean_t029_drop_zgb_register_head,blend_may13_loop09_best_clean_t029_drop_zgb_register_head.csv,COMPLETE,0.10706
+2026-05-13T03:13:45.717000+01:00,2026-05-13T02:13:45.717000,may13_loop10_best_clean_t034_add_961_1,blend_may13_loop10_best_clean_t034_add_961_1.csv,COMPLETE,0.10571

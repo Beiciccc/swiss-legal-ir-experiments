@@ -4,37 +4,36 @@ This file summarizes public-score findings from the tracked submission archive.
 
 ## Current Best
 
-- Best public score: `0.10452`
-- Best artifact: `blend_may12_loop10_t029_all_adult_protection.csv`
-- Best description: `may12_loop10_t029_all_adult_protection`
+- Best public score: `0.10706`
+- Best artifact: `blend_may13_loop09_best_clean_t029_drop_zgb_register_head.csv`
+- Best description: `may13_loop09_best_clean_t029_drop_zgb_register_head`
 
-## May 12 Submission Batch
+## May 13 Submission Batch
 
-Ten submissions were completed on 2026-05-12 local time. The batch moved the public score from `0.09498` to `0.10452`.
+Ten submissions were completed on 2026-05-13 local time. The batch moved the public score from `0.10452` to `0.10706`.
 
 | Description | Public score |
 |---|---:|
-| `may12_loop01_t029_4501_4462` | `0.09617` |
-| `may12_loop02_t029_4501_3892` | `0.09617` |
-| `may12_loop03_t029_4501_3941` | `0.09617` |
-| `may12_loop04_t029_4501_3951` | `0.09617` |
-| `may12_loop05_t029_4501_3901` | `0.09617` |
-| `may12_loop06_t029_4501_all_prev_pos` | `0.10063` |
-| `may12_loop07_t029_add_3891_4461` | `0.09732` |
-| `may12_loop08_t029_add_4502_4503` | `0.09732` |
-| `may12_loop09_t029_add_450c` | `0.09492` |
-| `may12_loop10_t029_all_adult_protection` | `0.10452` |
+| `may13_loop01_t029_drop_stpo_zpo_schkg` | `0.10404` |
+| `may13_loop02_t029_drop_bgg` | `0.10486` |
+| `may13_loop03_t029_drop_iprg` | `0.10486` |
+| `may13_loop04_t029_drop_or_tail` | `0.10539` |
+| `may13_loop05_t029_drop_all_crossdomain_tail` | `0.10571` |
+| `may13_loop06_t029_add_3902_3911_3912` | `0.10513` |
+| `may13_loop07_t029_add_448_449b_450b_450d` | `0.10390` |
+| `may13_loop08_t029_add_392_393_396_398` | `0.10390` |
+| `may13_loop09_best_clean_t029_drop_zgb_register_head` | `0.10706` |
+| `may13_loop10_best_clean_t034_add_961_1` | `0.10571` |
 
 ## Findings
 
-- The May 12 gain came from focused `test_029` adult-protection expansion on top of the May 11 best family.
-- Single additions around `Art. 446 Abs. 2 ZGB`, `Art. 389 Abs. 2 ZGB`, `Art. 394 Abs. 1 ZGB`, `Art. 395 Abs. 1 ZGB`, and `Art. 390 Abs. 1 ZGB` each reached `0.09617`.
-- Combining those prior positive additions reached `0.10063`.
-- The broader adult-protection pack reached `0.10452`, the current best public score.
-- `Art. 450c ZGB` alone was negative (`0.09492`) and should not be tested alone again.
-- Raw aggregated corpus submissions remained weak on the public board, so the source is useful as a candidate generator rather than a final submission by itself.
-- Global truncation experiments (`cap15`, `cap20`, `cap25`) were strongly negative, indicating that broad recall remains important for the current submission family.
-- Several neighboring additions for `test_021` were negative and should remain excluded: `Art. 425 Abs. 1 OR`, `Art. 399 Abs. 1 OR`, `Art. 440 Abs. 1 OR`, `Art. 440 Abs. 2 OR`, and `Art. 457 OR`.
+- The May 13 gain came from cleaning `test_029` after the adult-protection expansion had been established.
+- Dropping broad cross-domain residue from `test_029` reached `0.10571`.
+- Dropping an old ZGB register-head group from that cleaned base reached `0.10706`, the current best public score.
+- Procedure/appeal additions and alternative-guardianship additions on `test_029` were negative as packs.
+- `test_034 Art. 961 Abs. 1 ZGB` was neutral on the cleaned base.
+- Keep the adult-protection core pack unless explicitly testing removals.
+- Avoid global truncation, raw aggregated corpus submissions, and known negative `test_021` OR additions.
 
 ## Data Handling
 
