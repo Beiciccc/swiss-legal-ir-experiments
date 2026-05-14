@@ -39,3 +39,13 @@ date_local,date_utc,description,file_name,status,public_score
 2026-05-13T03:11:50.900000+01:00,2026-05-13T02:11:50.900000,may13_loop08_t029_add_392_393_396_398,blend_may13_loop08_t029_add_392_393_396_398.csv,COMPLETE,0.10390
 2026-05-13T03:13:13.383000+01:00,2026-05-13T02:13:13.383000,may13_loop09_best_clean_t029_drop_zgb_register_head,blend_may13_loop09_best_clean_t029_drop_zgb_register_head.csv,COMPLETE,0.10706
 2026-05-13T03:13:45.717000+01:00,2026-05-13T02:13:45.717000,may13_loop10_best_clean_t034_add_961_1,blend_may13_loop10_best_clean_t034_add_961_1.csv,COMPLETE,0.10571
+2026-05-14T12:18:00+01:00,2026-05-14T11:18:00,may14_loop01_t029_drop_remaining_old_zgb_tail_all,blend_may14_loop01_t029_drop_remaining_old_zgb_tail_all.csv,COMPLETE,0.10959
+2026-05-14T12:18:30+01:00,2026-05-14T11:18:30,may14_loop02_t029_drop_register_property_tail,blend_may14_loop02_t029_drop_register_property_tail.csv,COMPLETE,0.10838
+2026-05-14T12:19:00+01:00,2026-05-14T11:19:00,may14_loop03_t029_drop_general_inheritance_tail,blend_may14_loop03_t029_drop_general_inheritance_tail.csv,COMPLETE,0.10810
+2026-05-14T12:19:30+01:00,2026-05-14T11:19:30,may14_loop04_t029_drop_973_968_958_only,blend_may14_loop04_t029_drop_973_968_958_only.csv,COMPLETE,0.10783
+2026-05-14T12:20:00+01:00,2026-05-14T11:20:00,may14_loop05_t029_drop_241_656_only,blend_may14_loop05_t029_drop_241_656_only.csv,COMPLETE,0.10756
+2026-05-14T12:20:30+01:00,2026-05-14T11:20:30,may14_loop06_current_best_t034_add_961_1,blend_may14_loop06_current_best_t034_add_961_1.csv,COMPLETE,0.10706
+2026-05-14T12:21:00+01:00,2026-05-14T11:21:00,may14_loop07_t029_addback_schkg_17_1,blend_may14_loop07_t029_addback_schkg_17_1.csv,COMPLETE,0.10682
+2026-05-14T12:21:30+01:00,2026-05-14T11:21:30,may14_loop08_t029_addback_zpo_319,blend_may14_loop08_t029_addback_zpo_319.csv,COMPLETE,0.10823
+2026-05-14T12:22:00+01:00,2026-05-14T11:22:00,may14_loop09_t029_addback_zpo_243_1,blend_may14_loop09_t029_addback_zpo_243_1.csv,COMPLETE,0.10682
+2026-05-14T12:22:30+01:00,2026-05-14T11:22:30,may14_loop10_t029_addback_stpo_221_1,blend_may14_loop10_t029_addback_stpo_221_1.csv,COMPLETE,0.10682

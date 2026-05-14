@@ -4,36 +4,34 @@ This file summarizes public-score findings from the tracked submission archive.
 
 ## Current Best
 
-- Best public score: `0.10706`
-- Best artifact: `blend_may13_loop09_best_clean_t029_drop_zgb_register_head.csv`
-- Best description: `may13_loop09_best_clean_t029_drop_zgb_register_head`
+- Best public score: `0.10959`
+- Best artifact: `blend_may14_loop01_t029_drop_remaining_old_zgb_tail_all.csv`
+- Best description: `may14_loop01_t029_drop_remaining_old_zgb_tail_all`
 
-## May 13 Submission Batch
+## May 14 Submission Batch
 
-Ten submissions were completed on 2026-05-13 local time. The batch moved the public score from `0.10452` to `0.10706`.
+Ten submissions were completed on 2026-05-14 local time. The batch moved the public score from `0.10706` to `0.10959`.
 
 | Description | Public score |
 |---|---:|
-| `may13_loop01_t029_drop_stpo_zpo_schkg` | `0.10404` |
-| `may13_loop02_t029_drop_bgg` | `0.10486` |
-| `may13_loop03_t029_drop_iprg` | `0.10486` |
-| `may13_loop04_t029_drop_or_tail` | `0.10539` |
-| `may13_loop05_t029_drop_all_crossdomain_tail` | `0.10571` |
-| `may13_loop06_t029_add_3902_3911_3912` | `0.10513` |
-| `may13_loop07_t029_add_448_449b_450b_450d` | `0.10390` |
-| `may13_loop08_t029_add_392_393_396_398` | `0.10390` |
-| `may13_loop09_best_clean_t029_drop_zgb_register_head` | `0.10706` |
-| `may13_loop10_best_clean_t034_add_961_1` | `0.10571` |
+| `may14_loop01_t029_drop_remaining_old_zgb_tail_all` | `0.10959` |
+| `may14_loop02_t029_drop_register_property_tail` | `0.10838` |
+| `may14_loop03_t029_drop_general_inheritance_tail` | `0.10810` |
+| `may14_loop04_t029_drop_973_968_958_only` | `0.10783` |
+| `may14_loop05_t029_drop_241_656_only` | `0.10756` |
+| `may14_loop06_current_best_t034_add_961_1` | `0.10706` |
+| `may14_loop07_t029_addback_schkg_17_1` | `0.10682` |
+| `may14_loop08_t029_addback_zpo_319` | `0.10823` |
+| `may14_loop09_t029_addback_zpo_243_1` | `0.10682` |
+| `may14_loop10_t029_addback_stpo_221_1` | `0.10682` |
 
 ## Findings
 
-- The May 13 gain came from cleaning `test_029` after the adult-protection expansion had been established.
-- Dropping broad cross-domain residue from `test_029` reached `0.10571`.
-- Dropping an old ZGB register-head group from that cleaned base reached `0.10706`, the current best public score.
-- Procedure/appeal additions and alternative-guardianship additions on `test_029` were negative as packs.
-- `test_034 Art. 961 Abs. 1 ZGB` was neutral on the cleaned base.
-- Keep the adult-protection core pack unless explicitly testing removals.
-- Avoid global truncation, raw aggregated corpus submissions, and known negative `test_021` OR additions.
+- Deleting all remaining old ZGB/property/inheritance residue from `test_029` reached `0.10959`, the current best public score.
+- Partial deletion groups were positive but weaker than full cleanup.
+- `test_034 Art. 961 Abs. 1 ZGB` remained neutral on the current best.
+- Adding back `SchKG 17.1`, `ZPO 319`, `ZPO 243.1`, or `StPO 221.1` did not beat the cleaned `test_029` row.
+- The top-10 threshold on 2026-05-14 was about `0.28892`; the next phase needs global retrieval/rerank improvements instead of more single-row hand patching.
 
 ## Data Handling
 

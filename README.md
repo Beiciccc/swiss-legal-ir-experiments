@@ -6,10 +6,10 @@ This repository contains a sanitized record of experiments, public scores, submi
 
 ## Current Best
 
-- Public score: `0.10706`
-- Submission: `blend_may13_loop09_best_clean_t029_drop_zgb_register_head.csv`
-- Description: `may13_loop09_best_clean_t029_drop_zgb_register_head`
-- Date: `2026-05-13T03:13:13.383000+01:00`
+- Public score: `0.10959`
+- Submission: `blend_may14_loop01_t029_drop_remaining_old_zgb_tail_all.csv`
+- Description: `may14_loop01_t029_drop_remaining_old_zgb_tail_all`
+- Date: `2026-05-14T12:18:00+01:00`
 
 ## Repository Contents
 

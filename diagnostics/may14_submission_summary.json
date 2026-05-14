@@ -1,0 +1,66 @@
+{
+  "updated_local_date": "2026-05-14",
+  "best_public_score": "0.10959",
+  "best_submission": "blend_may14_loop01_t029_drop_remaining_old_zgb_tail_all.csv",
+  "best_description": "may14_loop01_t029_drop_remaining_old_zgb_tail_all",
+  "may14_submission_count": 10,
+  "may14_scores": [
+    {
+      "description": "may14_loop01_t029_drop_remaining_old_zgb_tail_all",
+      "file_name": "blend_may14_loop01_t029_drop_remaining_old_zgb_tail_all.csv",
+      "public_score": "0.10959"
+    },
+    {
+      "description": "may14_loop02_t029_drop_register_property_tail",
+      "file_name": "blend_may14_loop02_t029_drop_register_property_tail.csv",
+      "public_score": "0.10838"
+    },
+    {
+      "description": "may14_loop03_t029_drop_general_inheritance_tail",
+      "file_name": "blend_may14_loop03_t029_drop_general_inheritance_tail.csv",
+      "public_score": "0.10810"
+    },
+    {
+      "description": "may14_loop04_t029_drop_973_968_958_only",
+      "file_name": "blend_may14_loop04_t029_drop_973_968_958_only.csv",
+      "public_score": "0.10783"
+    },
+    {
+      "description": "may14_loop05_t029_drop_241_656_only",
+      "file_name": "blend_may14_loop05_t029_drop_241_656_only.csv",
+      "public_score": "0.10756"
+    },
+    {
+      "description": "may14_loop06_current_best_t034_add_961_1",
+      "file_name": "blend_may14_loop06_current_best_t034_add_961_1.csv",
+      "public_score": "0.10706"
+    },
+    {
+      "description": "may14_loop07_t029_addback_schkg_17_1",
+      "file_name": "blend_may14_loop07_t029_addback_schkg_17_1.csv",
+      "public_score": "0.10682"
+    },
+    {
+      "description": "may14_loop08_t029_addback_zpo_319",
+      "file_name": "blend_may14_loop08_t029_addback_zpo_319.csv",
+      "public_score": "0.10823"
+    },
+    {
+      "description": "may14_loop09_t029_addback_zpo_243_1",
+      "file_name": "blend_may14_loop09_t029_addback_zpo_243_1.csv",
+      "public_score": "0.10682"
+    },
+    {
+      "description": "may14_loop10_t029_addback_stpo_221_1",
+      "file_name": "blend_may14_loop10_t029_addback_stpo_221_1.csv",
+      "public_score": "0.10682"
+    }
+  ],
+  "key_findings": [
+    "Deleting all remaining old ZGB residue from test_029 reached 0.10959.",
+    "Partial old-tail deletion was positive but weaker than full deletion.",
+    "test034 Art. 961 Abs. 1 ZGB remained neutral.",
+    "Adding back SchKG/ZPO/StPO procedure residue did not beat the cleaned test029 row.",
+    "Top-10 threshold on 2026-05-14 was about 0.28892, requiring global retrieval/rerank work."
+  ]
+}
