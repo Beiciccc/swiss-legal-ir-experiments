@@ -4,9 +4,33 @@ This file summarizes public-score findings from the tracked submission archive.
 
 ## Current Best
 
-- Best public score: `0.10959`
-- Best artifact: `blend_may14_loop01_t029_drop_remaining_old_zgb_tail_all.csv`
-- Best description: `may14_loop01_t029_drop_remaining_old_zgb_tail_all`
+- Best public score: `0.12299`
+- Best artifact: `blend_may16_loop05_t009_foreign_estate_recognition.csv`
+- Best description: `may16_loop05_t009_foreign_estate_recognition`
+
+## May 16 Submission Batch
+
+Ten submissions were completed on 2026-05-16 local time. The batch moved the public score from `0.10959` to `0.12299`.
+
+| Description | Public score |
+|---|---:|
+| `may16_loop01_t034_lien_core` | `0.10959` |
+| `may16_loop02_t040_marital_protection` | `0.10959` |
+| `may16_loop03_t001_ip_software_core` | `0.11231` |
+| `may16_loop04_t008_child_abduction_iprg` | `0.10959` |
+| `may16_loop05_t009_foreign_estate_recognition` | `0.12299` |
+| `may16_loop06_t012_mandate_account_core` | `0.10959` |
+| `may16_loop07_t027_child_protection_core` | `0.10841` |
+| `may16_loop08_t035_foreign_merits_preserve` | `0.11059` |
+| `may16_loop09_t017_tenancy_eviction_core` | `0.11037` |
+| `may16_loop10_combo_best_domain_cleanups` | `0.10959` |
+
+Key findings:
+
+- Replacing the generic property tail for the foreign estate recognition row with a focused private international law package produced the largest improvement.
+- Narrowing the software-source-code row toward copyright, unfair competition, and private international law also improved the public score.
+- The child-protection hard prune was negative; future variants should add child-protection citations without deleting as aggressively.
+- Several other focused cleanups tied the prior best, suggesting the changed rows were either neutral or not present in the public subset.
 
 ## May 14 Submission Batch
 
@@ -27,7 +51,7 @@ Ten submissions were completed on 2026-05-14 local time. The batch moved the pub
 
 ## Findings
 
-- Deleting all remaining old ZGB/property/inheritance residue from `test_029` reached `0.10959`, the current best public score.
+- Deleting all remaining old ZGB/property/inheritance residue from `test_029` reached `0.10959`, the May 14 best public score.
 - Partial deletion groups were positive but weaker than full cleanup.
 - `test_034 Art. 961 Abs. 1 ZGB` remained neutral on the current best.
 - Adding back `SchKG 17.1`, `ZPO 319`, `ZPO 243.1`, or `StPO 221.1` did not beat the cleaned `test_029` row.

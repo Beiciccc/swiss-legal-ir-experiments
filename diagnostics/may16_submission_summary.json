@@ -1,0 +1,101 @@
+{
+  "date": "2026-05-16",
+  "best": {
+    "description": "may16_loop05_t009_foreign_estate_recognition",
+    "file": "blend_may16_loop05_t009_foreign_estate_recognition.csv",
+    "public_score": 0.12299
+  },
+  "previous_best": {
+    "description": "may14_loop01_t029_drop_remaining_old_zgb_tail_all",
+    "file": "blend_may14_loop01_t029_drop_remaining_old_zgb_tail_all.csv",
+    "public_score": 0.10959
+  },
+  "submissions": [
+    {
+      "local_time": "2026-05-16T20:56:18.243000+01:00",
+      "utc_time": "2026-05-16T19:56:18.243000",
+      "description": "may16_loop01_t034_lien_core",
+      "file": "blend_may16_loop01_t034_lien_core.csv",
+      "status": "COMPLETE",
+      "public_score": 0.10959
+    },
+    {
+      "local_time": "2026-05-16T20:56:36.257000+01:00",
+      "utc_time": "2026-05-16T19:56:36.257000",
+      "description": "may16_loop02_t040_marital_protection",
+      "file": "blend_may16_loop02_t040_marital_protection.csv",
+      "status": "COMPLETE",
+      "public_score": 0.10959
+    },
+    {
+      "local_time": "2026-05-16T20:56:54.270000+01:00",
+      "utc_time": "2026-05-16T19:56:54.270000",
+      "description": "may16_loop03_t001_ip_software_core",
+      "file": "blend_may16_loop03_t001_ip_software_core.csv",
+      "status": "COMPLETE",
+      "public_score": 0.11231
+    },
+    {
+      "local_time": "2026-05-16T20:57:28.187000+01:00",
+      "utc_time": "2026-05-16T19:57:28.187000",
+      "description": "may16_loop04_t008_child_abduction_iprg",
+      "file": "blend_may16_loop04_t008_child_abduction_iprg.csv",
+      "status": "COMPLETE",
+      "public_score": 0.10959
+    },
+    {
+      "local_time": "2026-05-16T20:57:46.117000+01:00",
+      "utc_time": "2026-05-16T19:57:46.117000",
+      "description": "may16_loop05_t009_foreign_estate_recognition",
+      "file": "blend_may16_loop05_t009_foreign_estate_recognition.csv",
+      "status": "COMPLETE",
+      "public_score": 0.12299
+    },
+    {
+      "local_time": "2026-05-16T20:58:04.033000+01:00",
+      "utc_time": "2026-05-16T19:58:04.033000",
+      "description": "may16_loop06_t012_mandate_account_core",
+      "file": "blend_may16_loop06_t012_mandate_account_core.csv",
+      "status": "COMPLETE",
+      "public_score": 0.10959
+    },
+    {
+      "local_time": "2026-05-16T20:58:21.860000+01:00",
+      "utc_time": "2026-05-16T19:58:21.860000",
+      "description": "may16_loop07_t027_child_protection_core",
+      "file": "blend_may16_loop07_t027_child_protection_core.csv",
+      "status": "COMPLETE",
+      "public_score": 0.10841
+    },
+    {
+      "local_time": "2026-05-16T20:58:39.723000+01:00",
+      "utc_time": "2026-05-16T19:58:39.723000",
+      "description": "may16_loop08_t035_foreign_merits_preserve",
+      "file": "blend_may16_loop08_t035_foreign_merits_preserve.csv",
+      "status": "COMPLETE",
+      "public_score": 0.11059
+    },
+    {
+      "local_time": "2026-05-16T20:59:13.393000+01:00",
+      "utc_time": "2026-05-16T19:59:13.393000",
+      "description": "may16_loop09_t017_tenancy_eviction_core",
+      "file": "blend_may16_loop09_t017_tenancy_eviction_core.csv",
+      "status": "COMPLETE",
+      "public_score": 0.11037
+    },
+    {
+      "local_time": "2026-05-16T20:59:47.113000+01:00",
+      "utc_time": "2026-05-16T19:59:47.113000",
+      "description": "may16_loop10_combo_best_domain_cleanups",
+      "file": "blend_may16_loop10_combo_best_domain_cleanups.csv",
+      "status": "COMPLETE",
+      "public_score": 0.10959
+    }
+  ],
+  "findings": [
+    "IP/software row cleanup improved to 0.11231.",
+    "Foreign estate recognition/private international law cleanup improved to 0.12299.",
+    "Child-protection hard prune was negative at 0.10841.",
+    "Several precision cleanups tied the prior best, suggesting untouched rows dominate remaining error."
+  ]
+}

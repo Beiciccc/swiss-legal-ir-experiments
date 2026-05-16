@@ -49,3 +49,13 @@ date_local,date_utc,description,file_name,status,public_score
 2026-05-14T12:21:30+01:00,2026-05-14T11:21:30,may14_loop08_t029_addback_zpo_319,blend_may14_loop08_t029_addback_zpo_319.csv,COMPLETE,0.10823
 2026-05-14T12:22:00+01:00,2026-05-14T11:22:00,may14_loop09_t029_addback_zpo_243_1,blend_may14_loop09_t029_addback_zpo_243_1.csv,COMPLETE,0.10682
 2026-05-14T12:22:30+01:00,2026-05-14T11:22:30,may14_loop10_t029_addback_stpo_221_1,blend_may14_loop10_t029_addback_stpo_221_1.csv,COMPLETE,0.10682
+2026-05-16T20:56:18.243000+01:00,2026-05-16T19:56:18.243000,may16_loop01_t034_lien_core,blend_may16_loop01_t034_lien_core.csv,COMPLETE,0.10959
+2026-05-16T20:56:36.257000+01:00,2026-05-16T19:56:36.257000,may16_loop02_t040_marital_protection,blend_may16_loop02_t040_marital_protection.csv,COMPLETE,0.10959
+2026-05-16T20:56:54.270000+01:00,2026-05-16T19:56:54.270000,may16_loop03_t001_ip_software_core,blend_may16_loop03_t001_ip_software_core.csv,COMPLETE,0.11231
+2026-05-16T20:57:28.187000+01:00,2026-05-16T19:57:28.187000,may16_loop04_t008_child_abduction_iprg,blend_may16_loop04_t008_child_abduction_iprg.csv,COMPLETE,0.10959
+2026-05-16T20:57:46.117000+01:00,2026-05-16T19:57:46.117000,may16_loop05_t009_foreign_estate_recognition,blend_may16_loop05_t009_foreign_estate_recognition.csv,COMPLETE,0.12299
+2026-05-16T20:58:04.033000+01:00,2026-05-16T19:58:04.033000,may16_loop06_t012_mandate_account_core,blend_may16_loop06_t012_mandate_account_core.csv,COMPLETE,0.10959
+2026-05-16T20:58:21.860000+01:00,2026-05-16T19:58:21.860000,may16_loop07_t027_child_protection_core,blend_may16_loop07_t027_child_protection_core.csv,COMPLETE,0.10841
+2026-05-16T20:58:39.723000+01:00,2026-05-16T19:58:39.723000,may16_loop08_t035_foreign_merits_preserve,blend_may16_loop08_t035_foreign_merits_preserve.csv,COMPLETE,0.11059
+2026-05-16T20:59:13.393000+01:00,2026-05-16T19:59:13.393000,may16_loop09_t017_tenancy_eviction_core,blend_may16_loop09_t017_tenancy_eviction_core.csv,COMPLETE,0.11037
+2026-05-16T20:59:47.113000+01:00,2026-05-16T19:59:47.113000,may16_loop10_combo_best_domain_cleanups,blend_may16_loop10_combo_best_domain_cleanups.csv,COMPLETE,0.10959
