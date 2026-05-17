@@ -6,10 +6,10 @@ This repository contains a sanitized record of experiments, public scores, submi
 
 ## Current Best
 
-- Public score: `0.12299`
-- Submission: `blend_may16_loop05_t009_foreign_estate_recognition.csv`
-- Description: `may16_loop05_t009_foreign_estate_recognition`
-- Date: `2026-05-16T20:57:46.117000+01:00`
+- Public score: `0.12861`
+- Submission: `blend_may17_loop02_t001_soft_t009_core_prune.csv`
+- Description: `may17_loop02_t001_soft_t009_core_prune`
+- Date: `2026-05-17T06:22:55.380000+01:00`
 
 ## Repository Contents
 

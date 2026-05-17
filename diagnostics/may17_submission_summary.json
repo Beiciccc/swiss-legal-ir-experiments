@@ -1,0 +1,101 @@
+{
+  "date": "2026-05-17",
+  "best": {
+    "description": "may17_loop02_t001_soft_t009_core_prune",
+    "file": "blend_may17_loop02_t001_soft_t009_core_prune.csv",
+    "public_score": 0.12861
+  },
+  "previous_best": {
+    "description": "may16_loop05_t009_foreign_estate_recognition",
+    "file": "blend_may16_loop05_t009_foreign_estate_recognition.csv",
+    "public_score": 0.12299
+  },
+  "submissions": [
+    {
+      "local_time": "2026-05-17T06:22:21.903000+01:00",
+      "utc_time": "2026-05-17T05:22:21.903000",
+      "description": "may17_loop01_best009_plus_t001_soft",
+      "file": "blend_may17_loop01_best009_plus_t001_soft.csv",
+      "status": "COMPLETE",
+      "public_score": 0.12571
+    },
+    {
+      "local_time": "2026-05-17T06:22:55.380000+01:00",
+      "utc_time": "2026-05-17T05:22:55.380000",
+      "description": "may17_loop02_t001_soft_t009_core_prune",
+      "file": "blend_may17_loop02_t001_soft_t009_core_prune.csv",
+      "status": "COMPLETE",
+      "public_score": 0.12861
+    },
+    {
+      "local_time": "2026-05-17T06:23:13.603000+01:00",
+      "utc_time": "2026-05-17T05:23:13.603000",
+      "description": "may17_loop03_t001_soft_t009_succession_expand",
+      "file": "blend_may17_loop03_t001_soft_t009_succession_expand.csv",
+      "status": "COMPLETE",
+      "public_score": 0.12291
+    },
+    {
+      "local_time": "2026-05-17T06:23:33.980000+01:00",
+      "utc_time": "2026-05-17T05:23:33.980000",
+      "description": "may17_loop04_t001_soft_t009_recognition_expand",
+      "file": "blend_may17_loop04_t001_soft_t009_recognition_expand.csv",
+      "status": "COMPLETE",
+      "public_score": 0.12723
+    },
+    {
+      "local_time": "2026-05-17T06:24:07.767000+01:00",
+      "utc_time": "2026-05-17T05:24:07.767000",
+      "description": "may17_loop05_t001_soft_t009_marriage_public_policy",
+      "file": "blend_may17_loop05_t001_soft_t009_marriage_public_policy.csv",
+      "status": "COMPLETE",
+      "public_score": 0.12676
+    },
+    {
+      "local_time": "2026-05-17T06:24:41.307000+01:00",
+      "utc_time": "2026-05-17T05:24:41.307000",
+      "description": "may17_loop06_t001_soft_t009_bank_accounting",
+      "file": "blend_may17_loop06_t001_soft_t009_bank_accounting.csv",
+      "status": "COMPLETE",
+      "public_score": 0.12622
+    },
+    {
+      "local_time": "2026-05-17T06:24:59.980000+01:00",
+      "utc_time": "2026-05-17T05:24:59.980000",
+      "description": "may17_loop07_t001_hard_ip_core",
+      "file": "blend_may17_loop07_t001_hard_ip_core.csv",
+      "status": "COMPLETE",
+      "public_score": 0.12584
+    },
+    {
+      "local_time": "2026-05-17T06:25:17.913000+01:00",
+      "utc_time": "2026-05-17T05:25:17.913000",
+      "description": "may17_loop08_t001_soft_t027_add_only",
+      "file": "blend_may17_loop08_t001_soft_t027_add_only.csv",
+      "status": "COMPLETE",
+      "public_score": 0.12566
+    },
+    {
+      "local_time": "2026-05-17T06:25:35.860000+01:00",
+      "utc_time": "2026-05-17T05:25:35.860000",
+      "description": "may17_loop09_t001_soft_t035_foreign_merits",
+      "file": "blend_may17_loop09_t001_soft_t035_foreign_merits.csv",
+      "status": "COMPLETE",
+      "public_score": 0.12672
+    },
+    {
+      "local_time": "2026-05-17T06:26:09.460000+01:00",
+      "utc_time": "2026-05-17T05:26:09.460000",
+      "description": "may17_loop10_t001_soft_t017_tenancy_eviction",
+      "file": "blend_may17_loop10_t001_soft_t017_tenancy_eviction.csv",
+      "status": "COMPLETE",
+      "public_score": 0.1265
+    }
+  ],
+  "findings": [
+    "Stacking the May 16 test_001 cleanup with the May 16 test_009 anchor improved to 0.12571.",
+    "Pruning the weak test_009 tail to the IPRG recognition/public-policy core improved further to 0.12861.",
+    "Succession, recognition, marriage/public-policy, and bank-accounting expansions were all below the core-pruned best.",
+    "Conservative test027/test035/test017 add-ons did not beat the core-pruned best."
+  ]
+}

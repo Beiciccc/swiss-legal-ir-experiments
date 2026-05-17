@@ -4,9 +4,33 @@ This file summarizes public-score findings from the tracked submission archive.
 
 ## Current Best
 
-- Best public score: `0.12299`
-- Best artifact: `blend_may16_loop05_t009_foreign_estate_recognition.csv`
-- Best description: `may16_loop05_t009_foreign_estate_recognition`
+- Best public score: `0.12861`
+- Best artifact: `blend_may17_loop02_t001_soft_t009_core_prune.csv`
+- Best description: `may17_loop02_t001_soft_t009_core_prune`
+
+## May 17 Submission Batch
+
+Ten submissions were completed on 2026-05-17 local time. The batch moved the public score from `0.12299` to `0.12861`.
+
+| Description | Public score |
+|---|---:|
+| `may17_loop01_best009_plus_t001_soft` | `0.12571` |
+| `may17_loop02_t001_soft_t009_core_prune` | `0.12861` |
+| `may17_loop03_t001_soft_t009_succession_expand` | `0.12291` |
+| `may17_loop04_t001_soft_t009_recognition_expand` | `0.12723` |
+| `may17_loop05_t001_soft_t009_marriage_public_policy` | `0.12676` |
+| `may17_loop06_t001_soft_t009_bank_accounting` | `0.12622` |
+| `may17_loop07_t001_hard_ip_core` | `0.12584` |
+| `may17_loop08_t001_soft_t027_add_only` | `0.12566` |
+| `may17_loop09_t001_soft_t035_foreign_merits` | `0.12672` |
+| `may17_loop10_t001_soft_t017_tenancy_eviction` | `0.12650` |
+
+Key findings:
+
+- The software-source-code cleanup and foreign-estate recognition cleanup stack positively.
+- Pruning the foreign-estate row to the core private-international-law recognition/public-policy citations produced the best score.
+- Broader succession, marriage/public-policy, and bank-accounting expansions were weaker than the core-pruned variant.
+- Conservative add-ons for child protection, foreign merits preservation, and tenancy eviction did not improve over the core-pruned best.
 
 ## May 16 Submission Batch
 

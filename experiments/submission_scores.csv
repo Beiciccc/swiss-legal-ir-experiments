@@ -59,3 +59,13 @@ date_local,date_utc,description,file_name,status,public_score
 2026-05-16T20:58:39.723000+01:00,2026-05-16T19:58:39.723000,may16_loop08_t035_foreign_merits_preserve,blend_may16_loop08_t035_foreign_merits_preserve.csv,COMPLETE,0.11059
 2026-05-16T20:59:13.393000+01:00,2026-05-16T19:59:13.393000,may16_loop09_t017_tenancy_eviction_core,blend_may16_loop09_t017_tenancy_eviction_core.csv,COMPLETE,0.11037
 2026-05-16T20:59:47.113000+01:00,2026-05-16T19:59:47.113000,may16_loop10_combo_best_domain_cleanups,blend_may16_loop10_combo_best_domain_cleanups.csv,COMPLETE,0.10959
+2026-05-17T06:22:21.903000+01:00,2026-05-17T05:22:21.903000,may17_loop01_best009_plus_t001_soft,blend_may17_loop01_best009_plus_t001_soft.csv,COMPLETE,0.12571
+2026-05-17T06:22:55.380000+01:00,2026-05-17T05:22:55.380000,may17_loop02_t001_soft_t009_core_prune,blend_may17_loop02_t001_soft_t009_core_prune.csv,COMPLETE,0.12861
+2026-05-17T06:23:13.603000+01:00,2026-05-17T05:23:13.603000,may17_loop03_t001_soft_t009_succession_expand,blend_may17_loop03_t001_soft_t009_succession_expand.csv,COMPLETE,0.12291
+2026-05-17T06:23:33.980000+01:00,2026-05-17T05:23:33.980000,may17_loop04_t001_soft_t009_recognition_expand,blend_may17_loop04_t001_soft_t009_recognition_expand.csv,COMPLETE,0.12723
+2026-05-17T06:24:07.767000+01:00,2026-05-17T05:24:07.767000,may17_loop05_t001_soft_t009_marriage_public_policy,blend_may17_loop05_t001_soft_t009_marriage_public_policy.csv,COMPLETE,0.12676
+2026-05-17T06:24:41.307000+01:00,2026-05-17T05:24:41.307000,may17_loop06_t001_soft_t009_bank_accounting,blend_may17_loop06_t001_soft_t009_bank_accounting.csv,COMPLETE,0.12622
+2026-05-17T06:24:59.980000+01:00,2026-05-17T05:24:59.980000,may17_loop07_t001_hard_ip_core,blend_may17_loop07_t001_hard_ip_core.csv,COMPLETE,0.12584
+2026-05-17T06:25:17.913000+01:00,2026-05-17T05:25:17.913000,may17_loop08_t001_soft_t027_add_only,blend_may17_loop08_t001_soft_t027_add_only.csv,COMPLETE,0.12566
+2026-05-17T06:25:35.860000+01:00,2026-05-17T05:25:35.860000,may17_loop09_t001_soft_t035_foreign_merits,blend_may17_loop09_t001_soft_t035_foreign_merits.csv,COMPLETE,0.12672
+2026-05-17T06:26:09.460000+01:00,2026-05-17T05:26:09.460000,may17_loop10_t001_soft_t017_tenancy_eviction,blend_may17_loop10_t001_soft_t017_tenancy_eviction.csv,COMPLETE,0.12650
