@@ -1,0 +1,101 @@
+{
+  "date": "2026-05-18",
+  "best": {
+    "description": "may18_loop10_best_t039_plus_t017_t019_t027",
+    "file": "blend_may18_loop10_best_t039_plus_t017_t019_t027.csv",
+    "public_score": 0.16083
+  },
+  "previous_best": {
+    "description": "may17_loop02_t001_soft_t009_core_prune",
+    "file": "blend_may17_loop02_t001_soft_t009_core_prune.csv",
+    "public_score": 0.12861
+  },
+  "submissions": [
+    {
+      "local_time": "2026-05-18T17:45:04.173000+01:00",
+      "utc_time": "2026-05-18T16:45:04.173000",
+      "description": "may18_loop01_best_t017_tenancy_eviction_true_single",
+      "file": "blend_may18_loop01_best_t017_tenancy_eviction_true_single.csv",
+      "status": "COMPLETE",
+      "public_score": 0.13364
+    },
+    {
+      "local_time": "2026-05-18T17:45:37.767000+01:00",
+      "utc_time": "2026-05-18T16:45:37.767000",
+      "description": "may18_loop02_best_t035_foreign_inheritance_measures",
+      "file": "blend_may18_loop02_best_t035_foreign_inheritance_measures.csv",
+      "status": "COMPLETE",
+      "public_score": 0.12861
+    },
+    {
+      "local_time": "2026-05-18T17:46:11.803000+01:00",
+      "utc_time": "2026-05-18T16:46:11.803000",
+      "description": "may18_loop03_best_t019_foreign_divorce_recognition",
+      "file": "blend_may18_loop03_best_t019_foreign_divorce_recognition.csv",
+      "status": "COMPLETE",
+      "public_score": 0.14128
+    },
+    {
+      "local_time": "2026-05-18T17:46:30.887000+01:00",
+      "utc_time": "2026-05-18T16:46:30.887000",
+      "description": "may18_loop04_best_t008_child_abduction_bgkke",
+      "file": "blend_may18_loop04_best_t008_child_abduction_bgkke.csv",
+      "status": "COMPLETE",
+      "public_score": 0.12861
+    },
+    {
+      "local_time": "2026-05-18T17:46:49.093000+01:00",
+      "utc_time": "2026-05-18T16:46:49.093000",
+      "description": "may18_loop05_best_t027_child_protection_add_short",
+      "file": "blend_may18_loop05_best_t027_child_protection_add_short.csv",
+      "status": "COMPLETE",
+      "public_score": 0.12884
+    },
+    {
+      "local_time": "2026-05-18T17:47:07.367000+01:00",
+      "utc_time": "2026-05-18T16:47:07.367000",
+      "description": "may18_loop06_best_t039_simple_partnership",
+      "file": "blend_may18_loop06_best_t039_simple_partnership.csv",
+      "status": "COMPLETE",
+      "public_score": 0.14289
+    },
+    {
+      "local_time": "2026-05-18T17:48:18.377000+01:00",
+      "utc_time": "2026-05-18T16:48:18.377000",
+      "description": "may18_loop07_best_t039_plus_t017",
+      "file": "blend_may18_loop07_best_t039_plus_t017.csv",
+      "status": "COMPLETE",
+      "public_score": 0.14793
+    },
+    {
+      "local_time": "2026-05-18T17:48:42.393000+01:00",
+      "utc_time": "2026-05-18T16:48:42.393000",
+      "description": "may18_loop08_best_t039_plus_t019",
+      "file": "blend_may18_loop08_best_t039_plus_t019.csv",
+      "status": "COMPLETE",
+      "public_score": 0.15557
+    },
+    {
+      "local_time": "2026-05-18T17:49:07.010000+01:00",
+      "utc_time": "2026-05-18T16:49:07.010000",
+      "description": "may18_loop09_best_t039_plus_t017_t019",
+      "file": "blend_may18_loop09_best_t039_plus_t017_t019.csv",
+      "status": "COMPLETE",
+      "public_score": 0.1606
+    },
+    {
+      "local_time": "2026-05-18T17:49:30.603000+01:00",
+      "utc_time": "2026-05-18T16:49:30.603000",
+      "description": "may18_loop10_best_t039_plus_t017_t019_t027",
+      "file": "blend_may18_loop10_best_t039_plus_t017_t019_t027.csv",
+      "status": "COMPLETE",
+      "public_score": 0.16083
+    }
+  ],
+  "findings": [
+    "Focused test_017, test_019, and test_039 patches improved the public score.",
+    "Stacking the three positive patches reached 0.16060.",
+    "Adding the conservative test_027 patch reached 0.16083.",
+    "The tested test_035 and test_008 variants tied the previous best."
+  ]
+}

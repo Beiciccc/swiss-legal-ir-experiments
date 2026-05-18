@@ -4,9 +4,33 @@ This file summarizes public-score findings from the tracked submission archive.
 
 ## Current Best
 
-- Best public score: `0.12861`
-- Best artifact: `blend_may17_loop02_t001_soft_t009_core_prune.csv`
-- Best description: `may17_loop02_t001_soft_t009_core_prune`
+- Best public score: `0.16083`
+- Best artifact: `blend_may18_loop10_best_t039_plus_t017_t019_t027.csv`
+- Best description: `may18_loop10_best_t039_plus_t017_t019_t027`
+
+## May 18 Submission Batch
+
+Ten submissions were completed on 2026-05-18 local time. The batch moved the public score from `0.12861` to `0.16083`.
+
+| Description | Public score |
+|---|---:|
+| `may18_loop01_best_t017_tenancy_eviction_true_single` | `0.13364` |
+| `may18_loop02_best_t035_foreign_inheritance_measures` | `0.12861` |
+| `may18_loop03_best_t019_foreign_divorce_recognition` | `0.14128` |
+| `may18_loop04_best_t008_child_abduction_bgkke` | `0.12861` |
+| `may18_loop05_best_t027_child_protection_add_short` | `0.12884` |
+| `may18_loop06_best_t039_simple_partnership` | `0.14289` |
+| `may18_loop07_best_t039_plus_t017` | `0.14793` |
+| `may18_loop08_best_t039_plus_t019` | `0.15557` |
+| `may18_loop09_best_t039_plus_t017_t019` | `0.16060` |
+| `may18_loop10_best_t039_plus_t017_t019_t027` | `0.16083` |
+
+Key findings:
+
+- Focused patches for tenancy eviction, foreign divorce recognition, and simple partnership were all positive.
+- Stacking the simple-partnership patch with tenancy eviction and foreign divorce recognition produced most of the gain.
+- The conservative child-protection add-short row was only weakly positive alone but improved the stacked candidate.
+- The tested foreign inheritance/provisional-measures and child-abduction variants tied the previous best and should not be repeated unchanged.
 
 ## May 17 Submission Batch
 

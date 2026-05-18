@@ -69,3 +69,13 @@ date_local,date_utc,description,file_name,status,public_score
 2026-05-17T06:25:17.913000+01:00,2026-05-17T05:25:17.913000,may17_loop08_t001_soft_t027_add_only,blend_may17_loop08_t001_soft_t027_add_only.csv,COMPLETE,0.12566
 2026-05-17T06:25:35.860000+01:00,2026-05-17T05:25:35.860000,may17_loop09_t001_soft_t035_foreign_merits,blend_may17_loop09_t001_soft_t035_foreign_merits.csv,COMPLETE,0.12672
 2026-05-17T06:26:09.460000+01:00,2026-05-17T05:26:09.460000,may17_loop10_t001_soft_t017_tenancy_eviction,blend_may17_loop10_t001_soft_t017_tenancy_eviction.csv,COMPLETE,0.12650
+2026-05-18T17:45:04.173000+01:00,2026-05-18T16:45:04.173000,may18_loop01_best_t017_tenancy_eviction_true_single,blend_may18_loop01_best_t017_tenancy_eviction_true_single.csv,COMPLETE,0.13364
+2026-05-18T17:45:37.767000+01:00,2026-05-18T16:45:37.767000,may18_loop02_best_t035_foreign_inheritance_measures,blend_may18_loop02_best_t035_foreign_inheritance_measures.csv,COMPLETE,0.12861
+2026-05-18T17:46:11.803000+01:00,2026-05-18T16:46:11.803000,may18_loop03_best_t019_foreign_divorce_recognition,blend_may18_loop03_best_t019_foreign_divorce_recognition.csv,COMPLETE,0.14128
+2026-05-18T17:46:30.887000+01:00,2026-05-18T16:46:30.887000,may18_loop04_best_t008_child_abduction_bgkke,blend_may18_loop04_best_t008_child_abduction_bgkke.csv,COMPLETE,0.12861
+2026-05-18T17:46:49.093000+01:00,2026-05-18T16:46:49.093000,may18_loop05_best_t027_child_protection_add_short,blend_may18_loop05_best_t027_child_protection_add_short.csv,COMPLETE,0.12884
+2026-05-18T17:47:07.367000+01:00,2026-05-18T16:47:07.367000,may18_loop06_best_t039_simple_partnership,blend_may18_loop06_best_t039_simple_partnership.csv,COMPLETE,0.14289
+2026-05-18T17:48:18.377000+01:00,2026-05-18T16:48:18.377000,may18_loop07_best_t039_plus_t017,blend_may18_loop07_best_t039_plus_t017.csv,COMPLETE,0.14793
+2026-05-18T17:48:42.393000+01:00,2026-05-18T16:48:42.393000,may18_loop08_best_t039_plus_t019,blend_may18_loop08_best_t039_plus_t019.csv,COMPLETE,0.15557
+2026-05-18T17:49:07.010000+01:00,2026-05-18T16:49:07.010000,may18_loop09_best_t039_plus_t017_t019,blend_may18_loop09_best_t039_plus_t017_t019.csv,COMPLETE,0.16060
+2026-05-18T17:49:30.603000+01:00,2026-05-18T16:49:30.603000,may18_loop10_best_t039_plus_t017_t019_t027,blend_may18_loop10_best_t039_plus_t017_t019_t027.csv,COMPLETE,0.16083
