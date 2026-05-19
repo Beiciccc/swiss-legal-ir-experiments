@@ -1,0 +1,100 @@
+{
+  "date": "2026-05-19",
+  "best": {
+    "description": "may19_loop08_best_t003_t031_t037_t025_matrimonial_property",
+    "file": "blend_may19_loop08_best_t003_t031_t037_t025_matrimonial_property.csv",
+    "public_score": 0.19307
+  },
+  "previous_best": {
+    "description": "may18_loop10_best_t039_plus_t017_t019_t027",
+    "file": "blend_may18_loop10_best_t039_plus_t017_t019_t027.csv",
+    "public_score": 0.16083
+  },
+  "submissions": [
+    {
+      "local_time": "2026-05-19T03:39:18.630000+01:00",
+      "utc_time": "2026-05-19T02:39:18.630000",
+      "description": "may19_loop01_best_t003_vehicle_lease_defects",
+      "file": "blend_may19_loop01_best_t003_vehicle_lease_defects.csv",
+      "status": "COMPLETE",
+      "public_score": 0.16803
+    },
+    {
+      "local_time": "2026-05-19T03:40:02.187000+01:00",
+      "utc_time": "2026-05-19T02:40:02.187000",
+      "description": "may19_loop02_best_t003_t011_jurisdiction_no_authority",
+      "file": "blend_may19_loop02_best_t003_t011_jurisdiction_no_authority.csv",
+      "status": "COMPLETE",
+      "public_score": 0.16803
+    },
+    {
+      "local_time": "2026-05-19T03:40:33.120000+01:00",
+      "utc_time": "2026-05-19T02:40:33.120000",
+      "description": "may19_loop03_best_t003_t031_spousal_maintenance",
+      "file": "blend_may19_loop03_best_t003_t031_spousal_maintenance.csv",
+      "status": "COMPLETE",
+      "public_score": 0.17672
+    },
+    {
+      "local_time": "2026-05-19T03:41:03.820000+01:00",
+      "utc_time": "2026-05-19T02:41:03.820000",
+      "description": "may19_loop04_best_t003_t031_t030_marital_home_interim",
+      "file": "blend_may19_loop04_best_t003_t031_t030_marital_home_interim.csv",
+      "status": "COMPLETE",
+      "public_score": 0.17672
+    },
+    {
+      "local_time": "2026-05-19T03:41:37.500000+01:00",
+      "utc_time": "2026-05-19T02:41:37.500000",
+      "description": "may19_loop05_best_t003_t031_t037_trademark_domain_uwg",
+      "file": "blend_may19_loop05_best_t003_t031_t037_trademark_domain_uwg.csv",
+      "status": "COMPLETE",
+      "public_score": 0.17927
+    },
+    {
+      "local_time": "2026-05-19T03:42:08.503000+01:00",
+      "utc_time": "2026-05-19T02:42:08.503000",
+      "description": "may19_loop06_best_t003_t031_t037_t032_detention",
+      "file": "blend_may19_loop06_best_t003_t031_t037_t032_detention.csv",
+      "status": "COMPLETE",
+      "public_score": 0.17927
+    },
+    {
+      "local_time": "2026-05-19T03:42:39.347000+01:00",
+      "utc_time": "2026-05-19T02:42:39.347000",
+      "description": "may19_loop07_best_t003_t031_t037_t036_dna",
+      "file": "blend_may19_loop07_best_t003_t031_t037_t036_dna.csv",
+      "status": "COMPLETE",
+      "public_score": 0.17927
+    },
+    {
+      "local_time": "2026-05-19T03:43:11.603000+01:00",
+      "utc_time": "2026-05-19T02:43:11.603000",
+      "description": "may19_loop08_best_t003_t031_t037_t025_matrimonial_property",
+      "file": "blend_may19_loop08_best_t003_t031_t037_t025_matrimonial_property.csv",
+      "status": "COMPLETE",
+      "public_score": 0.19307
+    },
+    {
+      "local_time": "2026-05-19T03:43:45.997000+01:00",
+      "utc_time": "2026-05-19T02:43:45.997000",
+      "description": "may19_loop09_best_t003_t031_t037_t025_t024_divorce_income",
+      "file": "blend_may19_loop09_best_t003_t031_t037_t025_t024_divorce_income.csv",
+      "status": "COMPLETE",
+      "public_score": 0.19307
+    },
+    {
+      "local_time": "2026-05-19T03:44:18.457000+01:00",
+      "utc_time": "2026-05-19T02:44:18.457000",
+      "description": "may19_loop10_best_t003_t031_t037_t025_t026_family_home_rent",
+      "file": "blend_may19_loop10_best_t003_t031_t037_t025_t026_family_home_rent.csv",
+      "status": "COMPLETE",
+      "public_score": 0.19307
+    }
+  ],
+  "findings": [
+    "Vehicle lease defects, spousal maintenance, trademark/domain unfair-competition, and matrimonial property/foreign villa patches stacked positively.",
+    "Six tested add-ons tied the active anchor and should not be carried forward unchanged.",
+    "The simplest best-scoring artifact is loop08."
+  ]
+}

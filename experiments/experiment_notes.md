@@ -4,9 +4,32 @@ This file summarizes public-score findings from the tracked submission archive.
 
 ## Current Best
 
-- Best public score: `0.16083`
-- Best artifact: `blend_may18_loop10_best_t039_plus_t017_t019_t027.csv`
-- Best description: `may18_loop10_best_t039_plus_t017_t019_t027`
+- Best public score: `0.19307`
+- Best artifact: `blend_may19_loop08_best_t003_t031_t037_t025_matrimonial_property.csv`
+- Best description: `may19_loop08_best_t003_t031_t037_t025_matrimonial_property`
+
+## May 19 Submission Batch
+
+Ten submissions were completed on 2026-05-19 local time. The batch moved the public score from `0.16083` to `0.19307`.
+
+| Description | Public score |
+|---|---:|
+| `may19_loop01_best_t003_vehicle_lease_defects` | `0.16803` |
+| `may19_loop02_best_t003_t011_jurisdiction_no_authority` | `0.16803` |
+| `may19_loop03_best_t003_t031_spousal_maintenance` | `0.17672` |
+| `may19_loop04_best_t003_t031_t030_marital_home_interim` | `0.17672` |
+| `may19_loop05_best_t003_t031_t037_trademark_domain_uwg` | `0.17927` |
+| `may19_loop06_best_t003_t031_t037_t032_detention` | `0.17927` |
+| `may19_loop07_best_t003_t031_t037_t036_dna` | `0.17927` |
+| `may19_loop08_best_t003_t031_t037_t025_matrimonial_property` | `0.19307` |
+| `may19_loop09_best_t003_t031_t037_t025_t024_divorce_income` | `0.19307` |
+| `may19_loop10_best_t003_t031_t037_t025_t026_family_home_rent` | `0.19307` |
+
+Key findings:
+
+- Vehicle lease defects, spousal maintenance, trademark/domain unfair-competition, and matrimonial property/foreign villa patches stacked positively.
+- Jurisdiction/no-authority, marital-home interim measures, pretrial detention, juvenile DNA profile, divorce income maintenance, and family-home rent proceeds tied in their tested contexts.
+- The current anchor should use the simplest best-scoring file, loop08, because loop09 and loop10 only add neutral rows.
 
 ## May 18 Submission Batch
 
