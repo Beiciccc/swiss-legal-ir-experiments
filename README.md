@@ -6,10 +6,10 @@ This repository contains a sanitized record of experiments, public scores, submi
 
 ## Current Best
 
-- Public score: `0.19307`
-- Submission: `blend_may19_loop08_best_t003_t031_t037_t025_matrimonial_property.csv`
-- Description: `may19_loop08_best_t003_t031_t037_t025_matrimonial_property`
-- Date: `2026-05-19T03:43:11.603000+01:00`
+- Public score: `0.20845`
+- Submission: `blend_may20_loop09_best_t005_t007_t015_cash_mandate.csv`
+- Description: `may20_loop09_best_t005_t007_t015_cash_mandate`
+- Date: `2026-05-20T03:48:30.663000+01:00`
 
 ## Repository Contents
 

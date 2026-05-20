@@ -4,9 +4,32 @@ This file summarizes public-score findings from the tracked submission archive.
 
 ## Current Best
 
-- Best public score: `0.19307`
-- Best artifact: `blend_may19_loop08_best_t003_t031_t037_t025_matrimonial_property.csv`
-- Best description: `may19_loop08_best_t003_t031_t037_t025_matrimonial_property`
+- Best public score: `0.20845`
+- Best artifact: `blend_may20_loop09_best_t005_t007_t015_cash_mandate.csv`
+- Best description: `may20_loop09_best_t005_t007_t015_cash_mandate`
+
+## May 20 Submission Batch
+
+Ten submissions were completed on 2026-05-20 local time. The batch moved the public score from `0.19307` to `0.20845`.
+
+| Description | Public score |
+|---|---:|
+| `may20_loop01_best_t005_bearer_mortgage_certificate` | `0.19715` |
+| `may20_loop02_best_t005_t020_construction_lien` | `0.19715` |
+| `may20_loop03_best_t005_t007_medical_mandate` | `0.20401` |
+| `may20_loop04_best_t005_t007_t013_temp_staffing` | `0.20401` |
+| `may20_loop05_best_t005_t007_t004_bankruptcy_deadline` | `0.20401` |
+| `may20_loop06_best_t005_t007_t028_building_owner` | `0.20401` |
+| `may20_loop07_best_t005_t007_t034_lien_deadline` | `0.20401` |
+| `may20_loop08_best_t005_t007_t038_tort_causation` | `0.20401` |
+| `may20_loop09_best_t005_t007_t015_cash_mandate` | `0.20845` |
+| `may20_loop10_best_t005_t007_t015_t040_marital_protection` | `0.20845` |
+
+Key findings:
+
+- Bearer mortgage certificate, medical mandate liability, and spousal cash/mandate maintenance patches stacked positively.
+- Construction lien, temporary staffing wages, bankruptcy deadline, building-owner liability, lien deadline, tort causation, and marital-protection patches tied in their tested contexts.
+- The current anchor should use the simplest best-scoring file, loop09, because loop10 only adds a neutral row.
 
 ## May 19 Submission Batch
 

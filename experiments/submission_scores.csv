@@ -89,3 +89,13 @@ date_local,date_utc,description,file_name,status,public_score
 2026-05-19T03:43:11.603000+01:00,2026-05-19T02:43:11.603000,may19_loop08_best_t003_t031_t037_t025_matrimonial_property,blend_may19_loop08_best_t003_t031_t037_t025_matrimonial_property.csv,COMPLETE,0.19307
 2026-05-19T03:43:45.997000+01:00,2026-05-19T02:43:45.997000,may19_loop09_best_t003_t031_t037_t025_t024_divorce_income,blend_may19_loop09_best_t003_t031_t037_t025_t024_divorce_income.csv,COMPLETE,0.19307
 2026-05-19T03:44:18.457000+01:00,2026-05-19T02:44:18.457000,may19_loop10_best_t003_t031_t037_t025_t026_family_home_rent,blend_may19_loop10_best_t003_t031_t037_t025_t026_family_home_rent.csv,COMPLETE,0.19307
+2026-05-20T03:43:34.633000+01:00,2026-05-20T02:43:34.633000,may20_loop01_best_t005_bearer_mortgage_certificate,blend_may20_loop01_best_t005_bearer_mortgage_certificate.csv,COMPLETE,0.19715
+2026-05-20T03:44:40.470000+01:00,2026-05-20T02:44:40.470000,may20_loop02_best_t005_t020_construction_lien,blend_may20_loop02_best_t005_t020_construction_lien.csv,COMPLETE,0.19715
+2026-05-20T03:45:17.160000+01:00,2026-05-20T02:45:17.160000,may20_loop03_best_t005_t007_medical_mandate,blend_may20_loop03_best_t005_t007_medical_mandate.csv,COMPLETE,0.20401
+2026-05-20T03:45:48.760000+01:00,2026-05-20T02:45:48.760000,may20_loop04_best_t005_t007_t013_temp_staffing,blend_may20_loop04_best_t005_t007_t013_temp_staffing.csv,COMPLETE,0.20401
+2026-05-20T03:46:20.663000+01:00,2026-05-20T02:46:20.663000,may20_loop05_best_t005_t007_t004_bankruptcy_deadline,blend_may20_loop05_best_t005_t007_t004_bankruptcy_deadline.csv,COMPLETE,0.20401
+2026-05-20T03:46:53.253000+01:00,2026-05-20T02:46:53.253000,may20_loop06_best_t005_t007_t028_building_owner,blend_may20_loop06_best_t005_t007_t028_building_owner.csv,COMPLETE,0.20401
+2026-05-20T03:47:26.927000+01:00,2026-05-20T02:47:26.927000,may20_loop07_best_t005_t007_t034_lien_deadline,blend_may20_loop07_best_t005_t007_t034_lien_deadline.csv,COMPLETE,0.20401
+2026-05-20T03:47:58.557000+01:00,2026-05-20T02:47:58.557000,may20_loop08_best_t005_t007_t038_tort_causation,blend_may20_loop08_best_t005_t007_t038_tort_causation.csv,COMPLETE,0.20401
+2026-05-20T03:48:30.663000+01:00,2026-05-20T02:48:30.663000,may20_loop09_best_t005_t007_t015_cash_mandate,blend_may20_loop09_best_t005_t007_t015_cash_mandate.csv,COMPLETE,0.20845
+2026-05-20T03:49:02.857000+01:00,2026-05-20T02:49:02.857000,may20_loop10_best_t005_t007_t015_t040_marital_protection,blend_may20_loop10_best_t005_t007_t015_t040_marital_protection.csv,COMPLETE,0.20845

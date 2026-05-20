@@ -1,0 +1,100 @@
+{
+  "date": "2026-05-20",
+  "best": {
+    "description": "may20_loop09_best_t005_t007_t015_cash_mandate",
+    "file": "blend_may20_loop09_best_t005_t007_t015_cash_mandate.csv",
+    "public_score": 0.20845
+  },
+  "previous_best": {
+    "description": "may19_loop08_best_t003_t031_t037_t025_matrimonial_property",
+    "file": "blend_may19_loop08_best_t003_t031_t037_t025_matrimonial_property.csv",
+    "public_score": 0.19307
+  },
+  "submissions": [
+    {
+      "local_time": "2026-05-20T03:43:34.633000+01:00",
+      "utc_time": "2026-05-20T02:43:34.633000",
+      "description": "may20_loop01_best_t005_bearer_mortgage_certificate",
+      "file": "blend_may20_loop01_best_t005_bearer_mortgage_certificate.csv",
+      "status": "COMPLETE",
+      "public_score": 0.19715
+    },
+    {
+      "local_time": "2026-05-20T03:44:40.470000+01:00",
+      "utc_time": "2026-05-20T02:44:40.470000",
+      "description": "may20_loop02_best_t005_t020_construction_lien",
+      "file": "blend_may20_loop02_best_t005_t020_construction_lien.csv",
+      "status": "COMPLETE",
+      "public_score": 0.19715
+    },
+    {
+      "local_time": "2026-05-20T03:45:17.160000+01:00",
+      "utc_time": "2026-05-20T02:45:17.160000",
+      "description": "may20_loop03_best_t005_t007_medical_mandate",
+      "file": "blend_may20_loop03_best_t005_t007_medical_mandate.csv",
+      "status": "COMPLETE",
+      "public_score": 0.20401
+    },
+    {
+      "local_time": "2026-05-20T03:45:48.760000+01:00",
+      "utc_time": "2026-05-20T02:45:48.760000",
+      "description": "may20_loop04_best_t005_t007_t013_temp_staffing",
+      "file": "blend_may20_loop04_best_t005_t007_t013_temp_staffing.csv",
+      "status": "COMPLETE",
+      "public_score": 0.20401
+    },
+    {
+      "local_time": "2026-05-20T03:46:20.663000+01:00",
+      "utc_time": "2026-05-20T02:46:20.663000",
+      "description": "may20_loop05_best_t005_t007_t004_bankruptcy_deadline",
+      "file": "blend_may20_loop05_best_t005_t007_t004_bankruptcy_deadline.csv",
+      "status": "COMPLETE",
+      "public_score": 0.20401
+    },
+    {
+      "local_time": "2026-05-20T03:46:53.253000+01:00",
+      "utc_time": "2026-05-20T02:46:53.253000",
+      "description": "may20_loop06_best_t005_t007_t028_building_owner",
+      "file": "blend_may20_loop06_best_t005_t007_t028_building_owner.csv",
+      "status": "COMPLETE",
+      "public_score": 0.20401
+    },
+    {
+      "local_time": "2026-05-20T03:47:26.927000+01:00",
+      "utc_time": "2026-05-20T02:47:26.927000",
+      "description": "may20_loop07_best_t005_t007_t034_lien_deadline",
+      "file": "blend_may20_loop07_best_t005_t007_t034_lien_deadline.csv",
+      "status": "COMPLETE",
+      "public_score": 0.20401
+    },
+    {
+      "local_time": "2026-05-20T03:47:58.557000+01:00",
+      "utc_time": "2026-05-20T02:47:58.557000",
+      "description": "may20_loop08_best_t005_t007_t038_tort_causation",
+      "file": "blend_may20_loop08_best_t005_t007_t038_tort_causation.csv",
+      "status": "COMPLETE",
+      "public_score": 0.20401
+    },
+    {
+      "local_time": "2026-05-20T03:48:30.663000+01:00",
+      "utc_time": "2026-05-20T02:48:30.663000",
+      "description": "may20_loop09_best_t005_t007_t015_cash_mandate",
+      "file": "blend_may20_loop09_best_t005_t007_t015_cash_mandate.csv",
+      "status": "COMPLETE",
+      "public_score": 0.20845
+    },
+    {
+      "local_time": "2026-05-20T03:49:02.857000+01:00",
+      "utc_time": "2026-05-20T02:49:02.857000",
+      "description": "may20_loop10_best_t005_t007_t015_t040_marital_protection",
+      "file": "blend_may20_loop10_best_t005_t007_t015_t040_marital_protection.csv",
+      "status": "COMPLETE",
+      "public_score": 0.20845
+    }
+  ],
+  "findings": [
+    "Bearer mortgage certificate, medical mandate liability, and spousal cash/mandate maintenance patches stacked positively.",
+    "Seven tested add-ons tied the active anchor and should not be carried forward unchanged.",
+    "The simplest best-scoring artifact is loop09."
+  ]
+}
