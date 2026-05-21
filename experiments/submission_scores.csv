@@ -99,3 +99,13 @@ date_local,date_utc,description,file_name,status,public_score
 2026-05-20T03:47:58.557000+01:00,2026-05-20T02:47:58.557000,may20_loop08_best_t005_t007_t038_tort_causation,blend_may20_loop08_best_t005_t007_t038_tort_causation.csv,COMPLETE,0.20401
 2026-05-20T03:48:30.663000+01:00,2026-05-20T02:48:30.663000,may20_loop09_best_t005_t007_t015_cash_mandate,blend_may20_loop09_best_t005_t007_t015_cash_mandate.csv,COMPLETE,0.20845
 2026-05-20T03:49:02.857000+01:00,2026-05-20T02:49:02.857000,may20_loop10_best_t005_t007_t015_t040_marital_protection,blend_may20_loop10_best_t005_t007_t015_t040_marital_protection.csv,COMPLETE,0.20845
+2026-05-21T04:12:27.263000+01:00,2026-05-21T03:12:27.263000,may21_loop01_best_t002_svg_limitation,blend_may21_loop01_best_t002_svg_limitation.csv,COMPLETE,0.20845
+2026-05-21T04:13:17.717000+01:00,2026-05-21T03:13:17.717000,may21_loop02_best_t006_product_liability,blend_may21_loop02_best_t006_product_liability.csv,COMPLETE,0.20845
+2026-05-21T04:13:59.183000+01:00,2026-05-21T03:13:59.183000,may21_loop03_best_t010_qualified_robbery,blend_may21_loop03_best_t010_qualified_robbery.csv,COMPLETE,0.20845
+2026-05-21T04:14:41.317000+01:00,2026-05-21T03:14:41.317000,may21_loop04_best_t014_accident_shoulder,blend_may21_loop04_best_t014_accident_shoulder.csv,COMPLETE,0.20845
+2026-05-21T04:15:29.370000+01:00,2026-05-21T03:15:29.370000,may21_loop05_best_t016_self_employed_maintenance,blend_may21_loop05_best_t016_self_employed_maintenance.csv,COMPLETE,0.20845
+2026-05-21T04:16:19.960000+01:00,2026-05-21T03:16:19.960000,may21_loop06_best_t018_judicial_assistance,blend_may21_loop06_best_t018_judicial_assistance.csv,COMPLETE,0.20845
+2026-05-21T04:17:08.600000+01:00,2026-05-21T03:17:08.600000,may21_loop07_best_t021_sub_mandate_forwarder,blend_may21_loop07_best_t021_sub_mandate_forwarder.csv,COMPLETE,0.20456
+2026-05-21T04:17:48.510000+01:00,2026-05-21T03:17:48.510000,may21_loop08_best_t022_crossborder_child_measures,blend_may21_loop08_best_t022_crossborder_child_measures.csv,COMPLETE,0.20845
+2026-05-21T04:18:28.880000+01:00,2026-05-21T03:18:28.880000,may21_loop09_best_t023_ahv_director_liability,blend_may21_loop09_best_t023_ahv_director_liability.csv,COMPLETE,0.21751
+2026-05-21T04:19:12.167000+01:00,2026-05-21T03:19:12.167000,may21_loop10_best_t023_t033_occupational_disease,blend_may21_loop10_best_t023_t033_occupational_disease.csv,COMPLETE,0.22667

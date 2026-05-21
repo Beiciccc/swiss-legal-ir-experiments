@@ -1,0 +1,19 @@
+{
+  "date": "2026-05-21",
+  "best": {
+    "description": "may21_loop10_best_t023_t033_occupational_disease",
+    "file": "blend_may21_loop10_best_t023_t033_occupational_disease.csv",
+    "public_score": 0.22667
+  },
+  "previous_best": {
+    "description": "may20_loop09_best_t005_t007_t015_cash_mandate",
+    "file": "blend_may20_loop09_best_t005_t007_t015_cash_mandate.csv",
+    "public_score": 0.20845
+  },
+  "findings": [
+    "AHV director liability cleanup improved the public score to 0.21751.",
+    "Occupational disease / accident-insurance investigation cleanup stacked positively and improved the public score to 0.22667.",
+    "Several single-row cleanups tied the active anchor and should not be carried forward unchanged.",
+    "The sub-mandate forwarder cleanup was negative in this form."
+  ]
+}

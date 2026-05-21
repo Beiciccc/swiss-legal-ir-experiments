@@ -4,9 +4,32 @@ This file summarizes public-score findings from the tracked submission archive.
 
 ## Current Best
 
-- Best public score: `0.20845`
-- Best artifact: `blend_may20_loop09_best_t005_t007_t015_cash_mandate.csv`
-- Best description: `may20_loop09_best_t005_t007_t015_cash_mandate`
+- Best public score: `0.22667`
+- Best artifact: `blend_may21_loop10_best_t023_t033_occupational_disease.csv`
+- Best description: `may21_loop10_best_t023_t033_occupational_disease`
+
+## May 21 Submission Batch
+
+Ten submissions were completed on 2026-05-21 local time. The batch moved the public score from `0.20845` to `0.22667`.
+
+| Description | Public score |
+|---|---:|
+| `may21_loop01_best_t002_svg_limitation` | `0.20845` |
+| `may21_loop02_best_t006_product_liability` | `0.20845` |
+| `may21_loop03_best_t010_qualified_robbery` | `0.20845` |
+| `may21_loop04_best_t014_accident_shoulder` | `0.20845` |
+| `may21_loop05_best_t016_self_employed_maintenance` | `0.20845` |
+| `may21_loop06_best_t018_judicial_assistance` | `0.20845` |
+| `may21_loop07_best_t021_sub_mandate_forwarder` | `0.20456` |
+| `may21_loop08_best_t022_crossborder_child_measures` | `0.20845` |
+| `may21_loop09_best_t023_ahv_director_liability` | `0.21751` |
+| `may21_loop10_best_t023_t033_occupational_disease` | `0.22667` |
+
+Key findings:
+
+- AHV director liability and occupational disease / accident-insurance investigation patches stacked positively.
+- SVG limitation, product liability, qualified robbery, accident shoulder, self-employed maintenance, judicial assistance, and cross-border child measures tied in their tested contexts.
+- The sub-mandate forwarder replacement was negative in this form.
 
 ## May 20 Submission Batch
 
