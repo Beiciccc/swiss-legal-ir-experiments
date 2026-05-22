@@ -4,9 +4,32 @@ This file summarizes public-score findings from the tracked submission archive.
 
 ## Current Best
 
-- Best public score: `0.22667`
-- Best artifact: `blend_may21_loop10_best_t023_t033_occupational_disease.csv`
-- Best description: `may21_loop10_best_t023_t033_occupational_disease`
+- Best public score: `0.22882`
+- Best artifact: `blend_may22_loop04_t033_uvg_core_only.csv`
+- Best description: `may22_loop04_t033_uvg_core_only`
+
+## May 22 Submission Batch
+
+Ten submissions were completed on 2026-05-22 local time. The batch moved the public score from `0.22667` to `0.22882`.
+
+| Description | Public score |
+|---|---:|
+| `may22_loop01_t001_ip_prune_tail` | `0.22512` |
+| `may22_loop02_t023_ahv_core_only` | `0.22448` |
+| `may22_loop03_t023_ahv_expert_hearing` | `0.22627` |
+| `may22_loop04_t033_uvg_core_only` | `0.22882` |
+| `may22_loop05_t033_uvg_benefits_expand` | `0.22606` |
+| `may22_loop06_best_t033_t014_rotator_cuff` | `0.22882` |
+| `may22_loop07_best_t033_t010_robbery` | `0.22882` |
+| `may22_loop08_best_t033_t018_zpo_evidence` | `0.22882` |
+| `may22_loop09_best_t033_t040_abuse_rights` | `0.22882` |
+| `may22_loop10_best_t033_t034_lien_deadline` | `0.22882` |
+
+Key findings:
+
+- The occupational disease / UVG core-only row improved the public score.
+- IP/software tail pruning, AHV core-only, AHV expert/hearing expansion, and UVG benefits expansion were weaker than the active anchor.
+- Rotator cuff, robbery appeal, third-party evidence, marital-protection abuse of rights, and construction-lien deadline variants tied the active anchor when stacked with the new best row.
 
 ## May 21 Submission Batch
 

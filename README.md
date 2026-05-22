@@ -6,10 +6,10 @@ This repository contains a sanitized record of experiments, public scores, submi
 
 ## Current Best
 
-- Public score: `0.22667`
-- Submission: `blend_may21_loop10_best_t023_t033_occupational_disease.csv`
-- Description: `may21_loop10_best_t023_t033_occupational_disease`
-- Date: `2026-05-21T04:19:12.167000+01:00`
+- Public score: `0.22882`
+- Submission: `blend_may22_loop04_t033_uvg_core_only.csv`
+- Description: `may22_loop04_t033_uvg_core_only`
+- Date: `2026-05-22T02:11:29.497000+01:00`
 
 ## Repository Contents
 

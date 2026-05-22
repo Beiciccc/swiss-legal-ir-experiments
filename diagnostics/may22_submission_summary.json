@@ -1,0 +1,18 @@
+{
+  "date": "2026-05-22",
+  "best": {
+    "description": "may22_loop04_t033_uvg_core_only",
+    "file": "blend_may22_loop04_t033_uvg_core_only.csv",
+    "public_score": 0.22882
+  },
+  "previous_best": {
+    "description": "may21_loop10_best_t023_t033_occupational_disease",
+    "file": "blend_may21_loop10_best_t023_t033_occupational_disease.csv",
+    "public_score": 0.22667
+  },
+  "findings": [
+    "Occupational disease / UVG core-only variant improved the public score to 0.22882.",
+    "Several follow-on row variants tied the new active anchor.",
+    "The simplest best-scoring file is loop04."
+  ]
+}

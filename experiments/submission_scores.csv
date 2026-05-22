@@ -109,3 +109,13 @@ date_local,date_utc,description,file_name,status,public_score
 2026-05-21T04:17:48.510000+01:00,2026-05-21T03:17:48.510000,may21_loop08_best_t022_crossborder_child_measures,blend_may21_loop08_best_t022_crossborder_child_measures.csv,COMPLETE,0.20845
 2026-05-21T04:18:28.880000+01:00,2026-05-21T03:18:28.880000,may21_loop09_best_t023_ahv_director_liability,blend_may21_loop09_best_t023_ahv_director_liability.csv,COMPLETE,0.21751
 2026-05-21T04:19:12.167000+01:00,2026-05-21T03:19:12.167000,may21_loop10_best_t023_t033_occupational_disease,blend_may21_loop10_best_t023_t033_occupational_disease.csv,COMPLETE,0.22667
+2026-05-22T02:09:10.533000+01:00,2026-05-22T01:09:10.533000,may22_loop01_t001_ip_prune_tail,blend_may22_loop01_t001_ip_prune_tail.csv,COMPLETE,0.22512
+2026-05-22T02:09:55.613000+01:00,2026-05-22T01:09:55.613000,may22_loop02_t023_ahv_core_only,blend_may22_loop02_t023_ahv_core_only.csv,COMPLETE,0.22448
+2026-05-22T02:10:40.120000+01:00,2026-05-22T01:10:40.120000,may22_loop03_t023_ahv_expert_hearing,blend_may22_loop03_t023_ahv_expert_hearing.csv,COMPLETE,0.22627
+2026-05-22T02:11:29.497000+01:00,2026-05-22T01:11:29.497000,may22_loop04_t033_uvg_core_only,blend_may22_loop04_t033_uvg_core_only.csv,COMPLETE,0.22882
+2026-05-22T02:12:15.590000+01:00,2026-05-22T01:12:15.590000,may22_loop05_t033_uvg_benefits_expand,blend_may22_loop05_t033_uvg_benefits_expand.csv,COMPLETE,0.22606
+2026-05-22T02:13:02.127000+01:00,2026-05-22T01:13:02.127000,may22_loop06_best_t033_t014_rotator_cuff,blend_may22_loop06_best_t033_t014_rotator_cuff.csv,COMPLETE,0.22882
+2026-05-22T02:13:50.790000+01:00,2026-05-22T01:13:50.790000,may22_loop07_best_t033_t010_robbery,blend_may22_loop07_best_t033_t010_robbery.csv,COMPLETE,0.22882
+2026-05-22T02:14:35.627000+01:00,2026-05-22T01:14:35.627000,may22_loop08_best_t033_t018_zpo_evidence,blend_may22_loop08_best_t033_t018_zpo_evidence.csv,COMPLETE,0.22882
+2026-05-22T02:15:18.873000+01:00,2026-05-22T01:15:18.873000,may22_loop09_best_t033_t040_abuse_rights,blend_may22_loop09_best_t033_t040_abuse_rights.csv,COMPLETE,0.22882
+2026-05-22T02:16:10.240000+01:00,2026-05-22T01:16:10.240000,may22_loop10_best_t033_t034_lien_deadline,blend_may22_loop10_best_t033_t034_lien_deadline.csv,COMPLETE,0.22882
