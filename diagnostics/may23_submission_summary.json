@@ -1,0 +1,107 @@
+{
+  "date": "2026-05-23",
+  "best": {
+    "description": "may23_loop08_best_t013_t035_t011",
+    "file": "blend_may23_loop08_best_t013_t035_t011_jurisdiction.csv",
+    "public_score": 0.25476
+  },
+  "previous_best": {
+    "description": "may22_loop04_t033_uvg_core_only",
+    "file": "blend_may22_loop04_t033_uvg_core_only.csv",
+    "public_score": 0.22882
+  },
+  "submissions": [
+    {
+      "local_time": "2026-05-23T06:47:30.083000+01:00",
+      "utc_time": "2026-05-23T05:47:30.083000",
+      "description": "may23_loop01_t012_mandate_account_narrow",
+      "file": "blend_may23_loop01_t012_mandate_account_narrow.csv",
+      "status": "COMPLETE",
+      "public_score": 0.22882
+    },
+    {
+      "local_time": "2026-05-23T06:47:54.433000+01:00",
+      "utc_time": "2026-05-23T05:47:54.433000",
+      "description": "may23_loop02_t035_foreign_merits_provisional_narrow",
+      "file": "blend_may23_loop02_t035_foreign_merits_provisional_narrow.csv",
+      "status": "COMPLETE",
+      "public_score": 0.23464
+    },
+    {
+      "local_time": "2026-05-23T06:48:18.527000+01:00",
+      "utc_time": "2026-05-23T05:48:18.527000",
+      "description": "may23_loop03_t024_divorce_income_evidence_narrow",
+      "file": "blend_may23_loop03_t024_divorce_income_evidence_narrow.csv",
+      "status": "COMPLETE",
+      "public_score": 0.22882
+    },
+    {
+      "local_time": "2026-05-23T06:48:42.313000+01:00",
+      "utc_time": "2026-05-23T05:48:42.313000",
+      "description": "may23_loop04_t026_rent_child_support_narrow",
+      "file": "blend_may23_loop04_t026_rent_child_support_narrow.csv",
+      "status": "COMPLETE",
+      "public_score": 0.22882
+    },
+    {
+      "local_time": "2026-05-23T06:49:07.717000+01:00",
+      "utc_time": "2026-05-23T05:49:07.717000",
+      "description": "may23_loop05_t030_hypothetical_income_home_narrow",
+      "file": "blend_may23_loop05_t030_hypothetical_income_home_narrow.csv",
+      "status": "COMPLETE",
+      "public_score": 0.22882
+    },
+    {
+      "local_time": "2026-05-23T06:49:34.557000+01:00",
+      "utc_time": "2026-05-23T05:49:34.557000",
+      "description": "may23_loop06_t013_staffing_avg_gav_narrow",
+      "file": "blend_may23_loop06_t013_staffing_avg_gav_narrow.csv",
+      "status": "COMPLETE",
+      "public_score": 0.23682
+    },
+    {
+      "local_time": "2026-05-23T06:50:43.267000+01:00",
+      "utc_time": "2026-05-23T05:50:43.267000",
+      "description": "may23_loop07_t013_t035_combo",
+      "file": "blend_may23_loop07_t013_t035_combo.csv",
+      "status": "COMPLETE",
+      "public_score": 0.24264
+    },
+    {
+      "local_time": "2026-05-23T06:51:27.190000+01:00",
+      "utc_time": "2026-05-23T05:51:27.190000",
+      "description": "may23_loop08_best_t013_t035_t011",
+      "file": "blend_may23_loop08_best_t013_t035_t011_jurisdiction.csv",
+      "status": "COMPLETE",
+      "public_score": 0.25476
+    },
+    {
+      "local_time": "2026-05-23T06:52:03.643000+01:00",
+      "utc_time": "2026-05-23T05:52:03.643000",
+      "description": "may23_loop09_best_t013_t035_t011_t032",
+      "file": "blend_may23_loop09_best_t013_t035_t011_t032_detention.csv",
+      "status": "COMPLETE",
+      "public_score": 0.25476
+    },
+    {
+      "local_time": "2026-05-23T06:52:41.633000+01:00",
+      "utc_time": "2026-05-23T05:52:41.633000",
+      "description": "may23_loop10_best_t013_t035_t011_t038",
+      "file": "blend_may23_loop10_best_t013_t035_t011_t038_tort.csv",
+      "status": "COMPLETE",
+      "public_score": 0.25476
+    }
+  ],
+  "findings": [
+    "test_035 foreign merits / provisional measures improved the public score from 0.22882 to 0.23464.",
+    "test_013 temporary staffing / collective wage law improved the public score from 0.22882 to 0.23682.",
+    "Stacking test_013 and test_035 improved to 0.24264, and adding the revised test_011 jurisdiction / unauthorized agency row improved to 0.25476.",
+    "test_012, test_024, test_026, and test_030 tied the prior anchor when tested alone.",
+    "test_032 and test_038 tied the new 0.25476 anchor when stacked, so the simplest best artifact is loop08."
+  ],
+  "next_directions": [
+    "Keep the May 23 positive stack through loop08 as the next anchor.",
+    "Do not carry the tied test_032 or test_038 rows into the default anchor.",
+    "Prioritize a retrieval and reranking branch for larger gains; row patches remain useful but are unlikely to reach the current top-10 threshold alone."
+  ]
+}

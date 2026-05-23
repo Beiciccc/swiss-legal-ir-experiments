@@ -4,9 +4,33 @@ This file summarizes public-score findings from the tracked submission archive.
 
 ## Current Best
 
-- Best public score: `0.22882`
-- Best artifact: `blend_may22_loop04_t033_uvg_core_only.csv`
-- Best description: `may22_loop04_t033_uvg_core_only`
+- Best public score: `0.25476`
+- Best artifact: `blend_may23_loop08_best_t013_t035_t011_jurisdiction.csv`
+- Best description: `may23_loop08_best_t013_t035_t011`
+
+## May 23 Submission Batch
+
+Ten submissions were completed on 2026-05-23 local time. The batch moved the public score from `0.22882` to `0.25476`.
+
+| Description | Public score |
+|---|---:|
+| `may23_loop01_t012_mandate_account_narrow` | `0.22882` |
+| `may23_loop02_t035_foreign_merits_provisional_narrow` | `0.23464` |
+| `may23_loop03_t024_divorce_income_evidence_narrow` | `0.22882` |
+| `may23_loop04_t026_rent_child_support_narrow` | `0.22882` |
+| `may23_loop05_t030_hypothetical_income_home_narrow` | `0.22882` |
+| `may23_loop06_t013_staffing_avg_gav_narrow` | `0.23682` |
+| `may23_loop07_t013_t035_combo` | `0.24264` |
+| `may23_loop08_best_t013_t035_t011` | `0.25476` |
+| `may23_loop09_best_t013_t035_t011_t032` | `0.25476` |
+| `may23_loop10_best_t013_t035_t011_t038` | `0.25476` |
+
+Key findings:
+
+- Foreign merits / provisional measures and temporary staffing / wage-law rows were positive standalone replacements.
+- Stacking those two rows was additive, and the revised jurisdiction / unauthorized-agency row produced the largest gain.
+- Mandate/account, divorce income evidence, rent/child support, and hypothetical-income rows tied the previous anchor when tested alone.
+- Detention substitute-measures and tort causation rows tied the new anchor, so the simplest best artifact is loop08.
 
 ## May 22 Submission Batch
 

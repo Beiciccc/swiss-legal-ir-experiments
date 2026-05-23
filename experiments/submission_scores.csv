@@ -119,3 +119,13 @@ date_local,date_utc,description,file_name,status,public_score
 2026-05-22T02:14:35.627000+01:00,2026-05-22T01:14:35.627000,may22_loop08_best_t033_t018_zpo_evidence,blend_may22_loop08_best_t033_t018_zpo_evidence.csv,COMPLETE,0.22882
 2026-05-22T02:15:18.873000+01:00,2026-05-22T01:15:18.873000,may22_loop09_best_t033_t040_abuse_rights,blend_may22_loop09_best_t033_t040_abuse_rights.csv,COMPLETE,0.22882
 2026-05-22T02:16:10.240000+01:00,2026-05-22T01:16:10.240000,may22_loop10_best_t033_t034_lien_deadline,blend_may22_loop10_best_t033_t034_lien_deadline.csv,COMPLETE,0.22882
+2026-05-23T06:47:30.083000+01:00,2026-05-23T05:47:30.083000,may23_loop01_t012_mandate_account_narrow,blend_may23_loop01_t012_mandate_account_narrow.csv,COMPLETE,0.22882
+2026-05-23T06:47:54.433000+01:00,2026-05-23T05:47:54.433000,may23_loop02_t035_foreign_merits_provisional_narrow,blend_may23_loop02_t035_foreign_merits_provisional_narrow.csv,COMPLETE,0.23464
+2026-05-23T06:48:18.527000+01:00,2026-05-23T05:48:18.527000,may23_loop03_t024_divorce_income_evidence_narrow,blend_may23_loop03_t024_divorce_income_evidence_narrow.csv,COMPLETE,0.22882
+2026-05-23T06:48:42.313000+01:00,2026-05-23T05:48:42.313000,may23_loop04_t026_rent_child_support_narrow,blend_may23_loop04_t026_rent_child_support_narrow.csv,COMPLETE,0.22882
+2026-05-23T06:49:07.717000+01:00,2026-05-23T05:49:07.717000,may23_loop05_t030_hypothetical_income_home_narrow,blend_may23_loop05_t030_hypothetical_income_home_narrow.csv,COMPLETE,0.22882
+2026-05-23T06:49:34.557000+01:00,2026-05-23T05:49:34.557000,may23_loop06_t013_staffing_avg_gav_narrow,blend_may23_loop06_t013_staffing_avg_gav_narrow.csv,COMPLETE,0.23682
+2026-05-23T06:50:43.267000+01:00,2026-05-23T05:50:43.267000,may23_loop07_t013_t035_combo,blend_may23_loop07_t013_t035_combo.csv,COMPLETE,0.24264
+2026-05-23T06:51:27.190000+01:00,2026-05-23T05:51:27.190000,may23_loop08_best_t013_t035_t011,blend_may23_loop08_best_t013_t035_t011_jurisdiction.csv,COMPLETE,0.25476
+2026-05-23T06:52:03.643000+01:00,2026-05-23T05:52:03.643000,may23_loop09_best_t013_t035_t011_t032,blend_may23_loop09_best_t013_t035_t011_t032_detention.csv,COMPLETE,0.25476
+2026-05-23T06:52:41.633000+01:00,2026-05-23T05:52:41.633000,may23_loop10_best_t013_t035_t011_t038,blend_may23_loop10_best_t013_t035_t011_t038_tort.csv,COMPLETE,0.25476
