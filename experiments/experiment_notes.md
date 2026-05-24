@@ -8,6 +8,29 @@ This file summarizes public-score findings from the tracked submission archive.
 - Best artifact: `blend_may23_loop08_best_t013_t035_t011_jurisdiction.csv`
 - Best description: `may23_loop08_best_t013_t035_t011`
 
+## May 24 Submission Batch
+
+Ten final submissions were completed on 2026-05-24 local time. All tied the active public score of `0.25476`; the current best remains the May 23 loop08 artifact.
+
+| Description | Public score |
+|---|---:|
+| `may24_loop01_t036_dna_profile` | `0.25476` |
+| `may24_loop01_t020_construction_lien_accounting_v2` | `0.25476` |
+| `may24_loop01_t020_construction_lien_accounting_v2` | `0.25476` |
+| `may24_loop02_t004_bankruptcy_deadline` | `0.25476` |
+| `may24_loop02_t004_bankruptcy_deadline_v2` | `0.25476` |
+| `may24_loop03_t006_prhg_core_v2` | `0.25476` |
+| `may24_loop03_t020_construction_lien` | `0.25476` |
+| `may24_loop04_t028_owner_liability_v2` | `0.25476` |
+| `may24_loop04_t018_judicial_assistance` | `0.25476` |
+| `may24_loop02_t004_bankruptcy_deadline_v2` | `0.25476` |
+
+Key findings:
+
+- Juvenile DNA, construction lien/accounting, bankruptcy deadline, product liability, owner liability, and international judicial-assistance variants did not move the public score.
+- The simplest active best remains `blend_may23_loop08_best_t013_t035_t011_jurisdiction.csv`.
+- Further gains likely required retrieval and reranking changes rather than more row-level cleanup.
+
 ## May 23 Submission Batch
 
 Ten submissions were completed on 2026-05-23 local time. The batch moved the public score from `0.22882` to `0.25476`.

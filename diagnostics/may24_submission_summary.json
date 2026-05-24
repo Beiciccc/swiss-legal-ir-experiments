@@ -1,0 +1,105 @@
+{
+  "date": "2026-05-24",
+  "best": {
+    "description": "may23_loop08_best_t013_t035_t011",
+    "file": "blend_may23_loop08_best_t013_t035_t011_jurisdiction.csv",
+    "public_score": 0.25476
+  },
+  "previous_best": {
+    "description": "may23_loop08_best_t013_t035_t011",
+    "file": "blend_may23_loop08_best_t013_t035_t011_jurisdiction.csv",
+    "public_score": 0.25476
+  },
+  "submissions": [
+    {
+      "local_time": "2026-05-24T04:26:44.403000+01:00",
+      "utc_time": "2026-05-24T03:26:44.403000",
+      "description": "may24_loop01_t036_dna_profile",
+      "file": "blend_may24_loop01_t036_dna_profile.csv",
+      "status": "COMPLETE",
+      "public_score": 0.25476
+    },
+    {
+      "local_time": "2026-05-24T04:26:48.930000+01:00",
+      "utc_time": "2026-05-24T03:26:48.930000",
+      "description": "may24_loop01_t020_construction_lien_accounting_v2",
+      "file": "blend_may24_loop01_t020_construction_lien_accounting_v2.csv",
+      "status": "COMPLETE",
+      "public_score": 0.25476
+    },
+    {
+      "local_time": "2026-05-24T04:26:52.613000+01:00",
+      "utc_time": "2026-05-24T03:26:52.613000",
+      "description": "may24_loop01_t020_construction_lien_accounting_v2",
+      "file": "blend_may24_loop01_t020_construction_lien_accounting.csv",
+      "status": "COMPLETE",
+      "public_score": 0.25476
+    },
+    {
+      "local_time": "2026-05-24T04:27:07.293000+01:00",
+      "utc_time": "2026-05-24T03:27:07.293000",
+      "description": "may24_loop02_t004_bankruptcy_deadline",
+      "file": "blend_may24_loop02_t004_bankruptcy_deadline.csv",
+      "status": "COMPLETE",
+      "public_score": 0.25476
+    },
+    {
+      "local_time": "2026-05-24T04:27:17.037000+01:00",
+      "utc_time": "2026-05-24T03:27:17.037000",
+      "description": "may24_loop02_t004_bankruptcy_deadline_v2",
+      "file": "blend_may24_loop02_t004_bankruptcy_deadline.csv",
+      "status": "COMPLETE",
+      "public_score": 0.25476
+    },
+    {
+      "local_time": "2026-05-24T04:27:41.297000+01:00",
+      "utc_time": "2026-05-24T03:27:41.297000",
+      "description": "may24_loop03_t006_prhg_core_v2",
+      "file": "blend_may24_loop03_t006_prhg_core.csv",
+      "status": "COMPLETE",
+      "public_score": 0.25476
+    },
+    {
+      "local_time": "2026-05-24T04:27:50.603000+01:00",
+      "utc_time": "2026-05-24T03:27:50.603000",
+      "description": "may24_loop03_t020_construction_lien",
+      "file": "blend_may24_loop03_t020_construction_lien.csv",
+      "status": "COMPLETE",
+      "public_score": 0.25476
+    },
+    {
+      "local_time": "2026-05-24T04:28:05.030000+01:00",
+      "utc_time": "2026-05-24T03:28:05.030000",
+      "description": "may24_loop04_t028_owner_liability_v2",
+      "file": "blend_may24_loop04_t028_owner_liability.csv",
+      "status": "COMPLETE",
+      "public_score": 0.25476
+    },
+    {
+      "local_time": "2026-05-24T04:28:13.450000+01:00",
+      "utc_time": "2026-05-24T03:28:13.450000",
+      "description": "may24_loop04_t018_judicial_assistance",
+      "file": "blend_may24_loop04_t018_judicial_assistance.csv",
+      "status": "COMPLETE",
+      "public_score": 0.25476
+    },
+    {
+      "local_time": "2026-05-24T04:28:30.470000+01:00",
+      "utc_time": "2026-05-24T03:28:30.470000",
+      "description": "may24_loop02_t004_bankruptcy_deadline_v2",
+      "file": "blend_may24_loop02_t004_bankruptcy_deadline_v2.csv",
+      "status": "COMPLETE",
+      "public_score": 0.25476
+    }
+  ],
+  "findings": [
+    "All ten final May 24 submissions tied the active 0.25476 anchor and did not improve the public score.",
+    "The tested variants covered juvenile DNA profile, construction lien/accounting, bankruptcy deadline/solvency appeal, product liability, owner liability, and international judicial assistance/evidence rows.",
+    "The active best remains the May 23 loop08 stack with test_013, test_035, and test_011 row cleanups.",
+    "The final public top-10 threshold visible before submission was 0.33681; the remaining gap was not closed by row-level patches."
+  ],
+  "next_directions": [
+    "Do not repeat the exact May 24 tied variants.",
+    "For any post-competition analysis, prioritize retrieval/reranking rather than additional row patching."
+  ]
+}

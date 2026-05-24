@@ -131,3 +131,13 @@ date_local,date_utc,description,file_name,status,public_score
 2026-05-23T06:52:41.633000+01:00,2026-05-23T05:52:41.633000,may23_loop10_best_t013_t035_t011_t038,blend_may23_loop10_best_t013_t035_t011_t038_tort.csv,COMPLETE,0.25476
 2026-05-24T04:26:48.930000+01:00,2026-05-24 03:26:48.930000,may24_loop01_t020_construction_lien_accounting_v2,blend_may24_loop01_t020_construction_lien_accounting_v2.csv,COMPLETE,0.25476
 2026-05-24T04:28:30.470000+01:00,2026-05-24 03:28:30.470000,may24_loop02_t004_bankruptcy_deadline_v2,blend_may24_loop02_t004_bankruptcy_deadline_v2.csv,COMPLETE,0.25476
+2026-05-24T04:26:44.403000+01:00,2026-05-24T03:26:44.403000,may24_loop01_t036_dna_profile,blend_may24_loop01_t036_dna_profile.csv,COMPLETE,0.25476
+2026-05-24T04:26:48.930000+01:00,2026-05-24T03:26:48.930000,may24_loop01_t020_construction_lien_accounting_v2,blend_may24_loop01_t020_construction_lien_accounting_v2.csv,COMPLETE,0.25476
+2026-05-24T04:26:52.613000+01:00,2026-05-24T03:26:52.613000,may24_loop01_t020_construction_lien_accounting_v2,blend_may24_loop01_t020_construction_lien_accounting.csv,COMPLETE,0.25476
+2026-05-24T04:27:07.293000+01:00,2026-05-24T03:27:07.293000,may24_loop02_t004_bankruptcy_deadline,blend_may24_loop02_t004_bankruptcy_deadline.csv,COMPLETE,0.25476
+2026-05-24T04:27:17.037000+01:00,2026-05-24T03:27:17.037000,may24_loop02_t004_bankruptcy_deadline_v2,blend_may24_loop02_t004_bankruptcy_deadline.csv,COMPLETE,0.25476
+2026-05-24T04:27:41.297000+01:00,2026-05-24T03:27:41.297000,may24_loop03_t006_prhg_core_v2,blend_may24_loop03_t006_prhg_core.csv,COMPLETE,0.25476
+2026-05-24T04:27:50.603000+01:00,2026-05-24T03:27:50.603000,may24_loop03_t020_construction_lien,blend_may24_loop03_t020_construction_lien.csv,COMPLETE,0.25476
+2026-05-24T04:28:05.030000+01:00,2026-05-24T03:28:05.030000,may24_loop04_t028_owner_liability_v2,blend_may24_loop04_t028_owner_liability.csv,COMPLETE,0.25476
+2026-05-24T04:28:13.450000+01:00,2026-05-24T03:28:13.450000,may24_loop04_t018_judicial_assistance,blend_may24_loop04_t018_judicial_assistance.csv,COMPLETE,0.25476
+2026-05-24T04:28:30.470000+01:00,2026-05-24T03:28:30.470000,may24_loop02_t004_bankruptcy_deadline_v2,blend_may24_loop02_t004_bankruptcy_deadline_v2.csv,COMPLETE,0.25476
