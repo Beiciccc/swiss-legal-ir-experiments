@@ -129,3 +129,4 @@ date_local,date_utc,description,file_name,status,public_score
 2026-05-23T06:51:27.190000+01:00,2026-05-23T05:51:27.190000,may23_loop08_best_t013_t035_t011,blend_may23_loop08_best_t013_t035_t011_jurisdiction.csv,COMPLETE,0.25476
 2026-05-23T06:52:03.643000+01:00,2026-05-23T05:52:03.643000,may23_loop09_best_t013_t035_t011_t032,blend_may23_loop09_best_t013_t035_t011_t032_detention.csv,COMPLETE,0.25476
 2026-05-23T06:52:41.633000+01:00,2026-05-23T05:52:41.633000,may23_loop10_best_t013_t035_t011_t038,blend_may23_loop10_best_t013_t035_t011_t038_tort.csv,COMPLETE,0.25476
+2026-05-24T04:26:48.930000+01:00,2026-05-24 03:26:48.930000,may24_loop01_t020_construction_lien_accounting_v2,blend_may24_loop01_t020_construction_lien_accounting_v2.csv,COMPLETE,0.25476
